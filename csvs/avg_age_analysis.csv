@@ -1,0 +1,1307 @@
+Symptoms,Daysdmitted,SymptomsCount,Age
+Fever/myalgia/loose stools,2.0,1,99.0
+Loose stools/loss of appetite,15.0,1,95.0
+Fever/Myalgia/Breathing Difficulty ,10.0,1,95.0
+Coronary Artery Disease/Anemia/Bronchial Asthma,4.0,1,93.0
+Cough/Breathing Difficulty/myalgia,6.0,1,92.0
+Chronic Kidney disease/Prostate Malignancy,7.0,1,92.0
+Interstitial Lung Disease on Steriods,4.0,1,92.0
+breathlessness/loose stools,8.0,1,92.0
+loss of appetite/fatigue/General Tiredness,1.0,1,92.0
+Fever/Loose stools ,18.0,1,91.0
+Fever/Loss of Appetite/Loose stools,6.0,1,90.0
+Fever/Breathing Difficulty/Giddiness,10.0,1,90.0
+Fever/Cough/Body Pain/general Myalgia,15.0,1,90.0
+Fever/Cough/Chest Pain ,12.0,1,89.0
+Cough/Cold/Loss of Appetite,5.0,1,89.0
+Tiredness/Nausea,4.0,1,88.0
+Type 2 Diabetes Mellitus/Bronchial Asthma/Systemic Hypertension/Coronary Artery Disease/Chronic Kidney Disease,16.0,1,88.0
+Cough/Myalgia/Loss of appetite,6.0,1,88.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Old Cerebrovascular Accident/Renal Failure/Hyperthyroidism,2.0,1,87.0
+Cough/loose stools,18.5,2,87.0
+ Fever/Cough/Breathing Difficulty,3.0,1,87.0
+Coronary Artery Disease/Pulmonary Systemic Hypertension,5.0,1,87.0
+Fatigue/Loss of appetite,12.0,1,86.0
+Fever/Throat Pain/Breathing Difficulty,16.0,1,86.0
+Breathing Difficulty/Altered sensorium,6.0,1,86.0
+Vomiting/Loose stools,5.0,1,86.0
+Fever/Cough/Mild Dysponea,8.0,1,86.0
+Fever/Body Pain/general weakness,5.0,1,86.0
+Altered Sensorium ,18.0,1,86.0
+General Tiredness/Increased Mictuation,36.0,1,86.0
+Fever/reduced ampulation/altered sensorium,6.0,1,86.0
+Old Cerebrovascular Accident/Chronic Kidney Disease,1.0,1,86.0
+Fever/fatigue/Cough,5.0,1,86.0
+Fever/Altered Sensorium/Breathing Difficulty,2.0,1,85.0
+Fever/Cough/Breathing Difficulty/Reduced Oral Intake,1.0,1,85.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Pulmonary tuberculosis/Chronic obstructive Pulmonary Disease,7.0,1,85.0
+Cardiovascular Disease,7.0,1,85.0
+Diabetes Mellitus/Systemic Hypertension/Chronic obstructive Pulmonary Disease,1.0,1,85.0
+Fever/Breathing difficulty,3.0,1,85.0
+Fever/Breathing Difficulty/loss of appetite,5.0,1,85.0
+Fever/Vomiting/drowsiness,4.0,1,85.0
+Fever/Myalgia/Loss of smell,9.0,1,85.0
+Fever/Loose stools/Vomiting/Breathing Difficulty ,1.0,1,84.0
+Cough/Sore Throat/Breathing Difficulty,8.0,1,84.0
+fatigue/myalgia,5.0,1,84.0
+Systemic Hypertension/Type 2 Diabetes Mellitus/Bronchial Asthma/Hypothyroidism,5.0,1,84.0
+Breathing Difficulty/Loose stools,10.0,2,83.5
+Type 2 Diabetes Mellitus/Systemic Hypertension/Cerebrovascular Accident/Coronary Artery Disease,7.0,1,83.0
+Left Hemiparesis,14.0,1,83.0
+Breathing Difficulty/Cough/Abdominal discomfort,2.0,1,83.0
+Systemic Hypertension/Diabetes Mellitus/Old Cerebrovascular Accident,15.0,1,83.0
+Systemic Hypertension/Surgery for GI Malignency,5.0,1,83.0
+Fever/Sore throat ,9.0,1,83.0
+Chronic Obstructive Pulmonary Disease/Morbid Obesity,10.0,1,83.0
+Fever/Drowsiness,4.0,1,83.0
+Fever/Cough/Tiredness/Myalgia/Loss of appetite,4.0,1,83.0
+Type 2 Diabetes Mellitus/Hypertension/Old Cerebrovascular Accident/Coronary Artery Disease,3.0,1,83.0
+Breathing Difficulty/Giddiness,6.0,2,82.5
+Fever/Tiredness/Breathing Difficulty,1.5,2,82.5
+Cancer Bladder,1.0,1,82.0
+Cough/Breathing Difficulty/Body Pain,3.0,2,82.0
+Fever/Cough/Poor oral intake/general tiredness/multiple oral ulcers,3.0,1,82.0
+Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Chronic Kidney Disease/Cerebrovascular Accident/Bronchial Asthma,4.0,1,82.0
+post op - Left Closed Femur Fracture,4.0,1,82.0
+Dysponea/Breathing Difficulty,10.0,1,82.0
+Fever/Cough/Bronchial Asthma,8.0,1,82.0
+Fever/Vomiting/Breathing Difficulty,18.0,1,82.0
+Fever/Cough/Giddiness ,10.0,1,82.0
+Type 2 Diabetes Mellitus/Parkinsonism,0.5,2,81.5
+Breathing Difficulty/loose stools,6.0,1,81.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Obstructive Sleep Apnea,1.0,1,81.0
+Sore Throat,1.0,1,81.0
+Headache/Abdominal Pain,12.0,1,81.0
+Cough/Breathing Difficulty/Body Pain/Tiredness,3.0,1,81.0
+Lung Metastasis,6.0,1,81.0
+loose stools/tiredness,4.0,1,81.0
+Dilated Cardiomyopathy/Rheumatic heart Disease,1.0,1,81.0
+Fatigue/Fever,3.0,1,81.0
+Diabetes/Coronary Artery Disease,2.0,1,81.0
+Chronic Obstructive Pulmonary Disease/Systemic Hypertension,1.0,1,81.0
+Cerebrovascular Accident/Left hemiplegia/RIght Myocardinal infarction,2.0,1,81.0
+Fever/Cough/Nausea/Breathing Difficulty,5.0,2,80.5
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Multiple Myeloma,1.0,1,80.0
+Bronchial Asthma/Morbid Obesity/Hypothyroidism,1.0,1,80.0
+Systemic Hypertension/Diabetes Mellitus/Nasal Bone Fracture/Maxilary Sinu Fracture,5.0,1,80.0
+Myalgia/Body Pain ,4.0,1,80.0
+Chronic Kidney Disease/Type 2 Diabetes Mellitus/Coronary Artery Disease,7.0,1,80.0
+Diabetes mellitus/Systemic Hypertension/Coronary Artery Disease,2.0,1,80.0
+Diabetes Mellitus/Hypertension/Right Hemiparesis,4.0,1,80.0
+Type 2 Diabetes Mellitus/Carcinoma Pancreas,1.0,1,80.0
+systemic Hypertension/Diabetes Mellitus/Atrial Fibrillation,0.0,1,80.0
+Cough/Breathing Difficulty/Giddiness,6.0,2,80.0
+Decreased Responsiveness,18.0,1,80.0
+Breathing Difficulty/Vomiting/General Tiredness,3.0,1,80.0
+Chronic Kidney Disease/Coronary Artery Disease/Systemic Hypertension/Type 2 Diabetes Mellitus,30.0,1,80.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Chronic Kidney disease,7.0,1,80.0
+Chronic Obstructive Pulmonary Disease/Coronary Artery Disease/Diabetes Mellitus,8.0,1,80.0
+Breathing Difficulty/Diarrhoea,12.0,1,80.0
+Cardiogenic shock/Atrial Fibrillation,2.0,1,80.0
+old age,1.0,1,80.0
+Old Age,1.0,1,80.0
+Asthma,5.5,2,79.5
+Diabetes Mellitus/Hypertension/Coronary Artery Disease/Chronic Kidney Disease,3.0,2,79.0
+Diabetes mellitus/Systemic Hypertension/Coronary Artery Disease - Coronary Artery Bypass Grafting,5.0,1,79.0
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Systemic Hypertension/Coronary Artery Disease,2.0,1,79.0
+Type 2 Diabetes Mellitus/Carcinoma Oral Cavity,1.0,1,79.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Hypothyroidism,13.0,1,79.0
+Sore Throat/loose stools,7.0,1,79.0
+Bronchial Asthma/Hypertension,1.0,1,79.0
+Portal Hypertension/Hepatic Encephalopathy/Renal Failure/Chronic Portal Vein Thrombosis Decompensated,5.0,1,79.0
+Fever/Cough/Breathing Difficulty/Loose stools/Reduced oral intake,4.0,1,79.0
+Breathing Difficulty/Cough/Cold,2.0,1,79.0
+Coronary Artery Disease/Diabetes Mellitus/Systemic Hypertension/Parkinsonism,11.0,1,79.0
+Fever/myalgia/fatigue,12.0,1,79.0
+Diabetes Mellitus/parkinsonism,3.0,1,78.0
+Dizziness/Myalgia/Tiredness,4.0,1,78.0
+Fever/Breathing Difficulty/fatigue/loose stools,2.0,1,78.0
+Systemic Hypertension/Acute Kidney Injury,7.0,1,78.0
+Systemic Hypertension/Diabetes Mellitus/Coronary Artery Disease (Post coronary artery bypass grafting)/Acute Kidney Injury,0.0,1,78.0
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Old Cerebrovascular Attack/Systemic Hypertension,0.0,1,78.0
+Coronary Artery Disease/Severe aorotic Stenosis/Ventricular Dysfunction,1.0,1,78.0
+Fever/fatigue,12.5,2,78.0
+Cough/loss of appetite,8.0,1,78.0
+Fever/Tiredness/Loss of taste/Cough/body Pain,3.0,1,78.0
+Diabetes Mellitus/Fracture Right Femur,3.0,1,78.0
+Breathing Difficulty/Chest Pain/Altered Sensorium,0.0,1,78.0
+Hypertension/Coronary Artery Disease,0.0,1,78.0
+Breathing Difficulty/Tiredness,3.0,2,78.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Obstructive Pulmonary Disease/Coronary Artery Disease -POST Percutaneous Transluminal Coronary Angioplasty,2.0,1,78.0
+Interstitial Lung Disease/Type 2 Diabetes Mellitus/Systemic Hypertension,2.0,1,78.0
+Vomiting/Loose stools/Right Leg Pain/Decreased Sensorium,2.0,1,78.0
+Breathlessness/Headache/Myalgia/Fatigue,4.0,1,78.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Chronic Obstructive Pulmonary Disease,0.0,1,78.0
+Cough/Loose stools,7.0,4,77.75
+Type 2 Diabetes Mellitus/Respiratory Failure,1.0,2,77.5
+Throat Pain,5.0,2,77.5
+Coronary Artery Disease/Old Cerebrovascular Accident,6.0,1,77.0
+Bronchial Asthma/Systemic Hypertension/Hypothyroidism/Oral Cancer,0.0,1,77.0
+Fever/Cough/Coryza,10.0,1,77.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Parkinsonism,2.5,2,77.0
+general Weakness/Loss of Appetite,5.0,1,77.0
+Fever/Cough/loss of appetite,4.5,2,77.0
+loss of smell/Breathing Difficulty,14.0,1,77.0
+Fever/Diarrhoea/Myalgia,8.0,2,77.0
+Cough/Fatigue,5.0,1,77.0
+Old Cerebrovascular Accident/Type 2 Diabetes Mellitus/Systemic Hypertension,5.5,2,77.0
+Giddiness/Loose stools,7.0,1,77.0
+Loose stools ,2.0,1,77.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Bronchial Asthma,4.0,8,77.0
+Systemic Hypertension/Diabetes Mellitus/Acute Kidney Injury,17.0,1,77.0
+Fever/cough/breathlessness,3.0,1,77.0
+Diabetes Mellitus/Systemic Hypertension/Parkinsonism,9.0,1,77.0
+Dysponea,2.0,1,77.0
+Abdominal Discomfort/Vomiting,5.0,1,77.0
+Cough/Loss of Appetite,4.0,2,76.5
+Altered Sensorium/Breathing Difficulty,3.5,2,76.0
+Type 2 Diabetes Mellitus/Hypertension/Bronchial Asthma,0.0,1,76.0
+Fever/Loose stools/Cough ,10.0,1,76.0
+Cough/Body Pain,6.5,2,76.0
+Systemic Hypertension/Diabetes Mellitus/Coronary Artery Disease/Acute Kidney Injury,5.0,1,76.0
+Fever/drowsiness,0.0,1,76.0
+tiredness ,6.0,1,76.0
+Giddiness/Myalgia,7.0,1,76.0
+Breathing Difficulty/Nausea/Vomiting,1.0,1,76.0
+Myalgia/Diarrhoea,4.0,1,76.0
+Fever/Altered Sensorium,4.4,5,76.0
+Loss of appetite/General Tiredness,12.0,1,76.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Ischemic Heart Disease,7.0,2,76.0
+Fever/Breathing Difficulty/Cough/General Tiredness,18.0,1,76.0
+Mitral Valve Prolapse,7.0,1,76.0
+Fever/Breathing Difficulty/Myalgia/tiredness,1.0,1,76.0
+Fever/Breathing Difficulty/Vomiting ,7.0,1,76.0
+Systemic Hypertension/Coronary Artery Disease/Diabetes Mellitus/PLHA,4.0,1,76.0
+Fever/Breathing Difficulty/general Body Pain,7.0,1,76.0
+Parkinsonism,10.3,10,75.8
+Coronary Artery Disease/Chronic Obstructive Pulmonary Disease,6.0,3,75.66666666666667
+Cough/Loss of appetite,11.5,2,75.5
+Systemic Hypertension/Old Pulmonary Tuberculosis,6.0,2,75.5
+Old Pulmonary Tuberculosis,8.0,3,75.33333333333333
+Fever/Cough/myalgia ,8.0,1,75.0
+Type 2 Diabetes Mellitus/OLD Cerebrovascular Accident,7.0,1,75.0
+Fever/headache/Cough,10.0,1,75.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease/Old Pulmonary Tuberculosis,5.0,1,75.0
+Myalgia/Breathlessness,8.0,1,75.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/seizure/Bronchial Asthma,13.0,1,75.0
+Fever/Abdominal Pain ,1.0,1,75.0
+Diabetes Mellitus/Systemic Hypertension/Multiple Myeloma,8.0,1,75.0
+Fever/Vomiting/Loose stools,4.0,1,75.0
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Post Urethrostomy,0.0,1,75.0
+Fever/Cough/Loss of taste,3.0,1,75.0
+Loose stools/general Body Pain,5.0,1,75.0
+Hypertension/Coronary Artery Disease/Diabetes Mellitus,14.0,1,75.0
+Systemic Hypertension/Acute Cerebrovascular Accident,9.0,1,75.0
+General Tiredness/loss of taste/myalgia/Fever/shortness of breath ,4.0,1,75.0
+Supraglottic Squamous Cell Carcinoma,0.0,1,75.0
+Rapid Ventricular Rate.,1.0,1,75.0
+Renal Failure/Bronchial Asthma/Parkinsonism,9.0,1,75.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease/Coronary Artery Disease/Hypothyroidism,5.0,1,75.0
+Old Cerebrovascular Accident/Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Obstructive Pulmonary Disease,2.0,1,75.0
+Diabetes Mellitus/Chronic Kidney disease/Coronary Artery Disease,0.0,1,75.0
+Fever/Cough/breathing difficulty ,4.0,1,75.0
+Coronary Artery Disease/Leukemia,1.0,1,75.0
+Diabetes/Hypertension/Hypothyroidism,0.0,1,75.0
+urinary Bladder/Radiation Proctitis,1.0,1,75.0
+Cerebrovascular Accident/Systemic Hypertension/Type 2 Diabetes Mellitus,0.0,1,75.0
+Type 2 Diabetes Mellitus/Antivirals/Steroids/Heparin,2.0,1,75.0
+Abdominal Pain/Vomiting ,1.0,1,75.0
+Systemic Hypertension/Coronary Artery Disease/Chronic Obstructive Pulmonary Disease,8.0,1,75.0
+Coronary Artery Disease/Chronic Kidney Disease/uncontrolled Hyperglycemia,10.0,1,75.0
+Atrial Fibrillation,0.0,1,75.0
+Anemia/Renal Failure,0.0,1,75.0
+Systemic Hypertension/Coronary Artery Disease/Cerebrovascular Accident,16.0,1,75.0
+Altered Sensorium/Fever/Breathing Difficulty,4.0,1,75.0
+Cough/Tiredness,9.5,2,74.0
+Type 2 Diabetes Mellitus/Old Cerebrovascular Accident/Chronic Kidney Disease/Pulmonary Tuberculosis,18.0,1,74.0
+Fever/Loose stools/Vomiting,3.0,1,74.0
+Fever/Dysponea/Fatigue,11.0,1,74.0
+Fever/Dry Cough,5.0,1,74.0
+Chronic Kidney Disease/Type 2 Diabetes Mellitus/Systemic Hypertension/Hypertension,4.0,1,74.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Diabetic feet Ulcer/Renal Failure,3.0,1,74.0
+Systemic Hypertension/Severe Anemia,3.0,1,74.0
+Chronic Obstructive Pulmonary Disease/Hypothyroidism,5.0,1,74.0
+Hypertension/Chronic Kidney Disease,2.0,1,74.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Renal Failure,6.0,1,74.0
+Fever/Cough/Loss of taste/Breathing Difficulty,2.0,1,74.0
+Cold/Cough,7.0,1,74.0
+Systemic Hypertension/newly detected diabetes,1.0,1,74.0
+Vomiting/Breathing Difficulty,5.0,1,74.0
+Diabetes Mellitus/Ischemic Heart Disease,4.0,1,74.0
+Fever/myalgia/Cough ,16.0,1,74.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Carcinoma Cervix,3.0,1,74.0
+Myalgia/Decreased Appetite/Giddiness,1.0,1,74.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Hypothyroidism/Coronary Artery Disease,12.0,1,74.0
+Fever/sore throat/fatigue/dry Cough/body pain/headache,5.0,1,74.0
+Type 2 Diabetes Mellitus/Chronic obstructive Pulmonary Disease,4.428571428571429,7,73.57142857142857
+Fever/Loose stools,8.142857142857142,7,73.57142857142857
+Fever/loss of appetite,3.5,2,73.5
+Breathlessness/Cough,10.75,4,73.5
+Cough/Dysponea,6.5,2,73.5
+Chronic Kidney Disease/Coronary Artery Disease/Systemic Hypertension,3.75,4,73.25
+Diabetes Mellitus/Systemic Hypertension/Chronic Kidney disease,9.0,1,73.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Diabetic Keto acidosis/Chronic obstructive Pulmonary Disease,2.0,1,73.0
+Fever/Cough/Cold/Myalgia/Vomiting,3.0,1,73.0
+Diabetes Mellitus/Cholelithiasis/Renal lithiasis,7.0,1,73.0
+Diabetes Mellitus/Coronary Artery Disease/Hypertension,4.0,1,73.0
+Hypothyroidism/Systemic Hypertension/Chronic Kidney Disease,12.0,1,73.0
+Cold/Body Pain,8.0,1,73.0
+Systemic Hypertension/Coronary Artery Disease/Diabetes Mellitus,3.0,2,73.0
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Systemic Hypertension/Coronary Artery Disease/Hypothyroidism,5.0,1,73.0
+Cold,5.0,1,73.0
+Diabetes mellitus/Systemic Hypertension/Old Pulmonary Tuberculosis,7.0,1,73.0
+breathlessness/loss of appetite,2.0,1,73.0
+Cough/Myalgia ,3.0,1,73.0
+Morbid Obesity/Chronic Obstructive Pulmonary Disease,1.0,1,73.0
+Fever/Constipation,9.0,1,73.0
+Cerebrovascular Accident/Diabetes Mellitus/Systemic Hypertension,2.0,1,73.0
+Fever/Breathlessness/Seizure,5.0,1,73.0
+Old Cerebrovascular Accident/Type 2 Diabetes Mellitus/Hypertension,3.0,1,73.0
+Cerebrovascular Accident/Systemic Hypertension/Left Middle Cerebral Artery infarction,2.0,1,73.0
+Fever/Breathing Difficulty/Chest Discomfort,5.0,1,73.0
+Fever/Cough/General Tiredness/Myalgia,4.0,1,73.0
+Tiredness/Cough/Breathing Difficulty,5.0,1,73.0
+Fever/Cough/fatigue,4.0,2,73.0
+Fever/Shortness of Breath/Loss of Appetite,8.0,1,73.0
+Coronary Artery Disease/Chronic Kidney Disease,4.0,1,73.0
+Type 2 Diabetes Mellitus/Carcinoma Right Breast,12.0,1,73.0
+Fever/Cough/Myalgia/Breathlessness.,5.0,1,73.0
+Fever/Throat Pain/Loss of smell/Cough,2.0,1,73.0
+Fever/Dysponea/Cough,6.0,1,73.0
+Fever/Cough/Loss of appetite,8.0,1,73.0
+Sore Throat/Body Pain/Headache,2.0,1,73.0
+Type 2 Diabetes mellitus/Systemic Hypertension,2.2,5,72.8
+Old age,4.666666666666667,9,72.44444444444444
+Fever/Cough/General Tiredness,7.333333333333333,3,72.33333333333333
+Fever/Vomiting/Loose stools/Breathing Difficulty,3.0,1,72.0
+Fever/Body Pain/Breathing Difficulty,1.0,1,72.0
+Fever/Loss of appetite/Breathing Difficulty ,17.0,1,72.0
+Fever/Myalgia ,14.0,2,72.0
+Chronic Obstructive Pulmonary Disease/Coronary Artery Disease,3.0,1,72.0
+Systemic Hypertension/seizure/Old Cerebrovascular Accident,10.0,1,72.0
+Fever/Myalgia/Sore Throat,9.0,1,72.0
+Fever/dysponea,4.0,1,72.0
+Chronic Kidney Disease/Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Liver Disease,0.0,1,72.0
+Old Cerebrovascular accident/Type 2 Diabetes Mellitus,15.0,1,72.0
+Fever/diarrhoea/headache/decreased smell,3.0,1,72.0
+Neurogenic Bladder,1.0,1,72.0
+Diabetes mellitus/Hypertension/Chronic Kidney Disease,0.0,1,72.0
+Systemic Hypertension/Left carcinoma Breast/Post Masectomy Status,4.0,1,72.0
+Systemic Hypertension/Coronary Artery Disease/Complete Heart Block Pacemaker,1.0,1,72.0
+Type 2 Diabetes Mellitus/Interstitial Lung Disease/Coronary Artery Disease,2.0,1,72.0
+Fever/Cough/Nausea/tiredness,5.0,1,72.0
+Bronchial Asthma/Coronary Artery Disease,2.0,1,72.0
+Fever/Cough/Breathing Difficulty/Tiredness,4.0,1,72.0
+Fever/Cough/loss of Appetite/Myalgia,17.0,1,72.0
+Systemic Hypertension/Type 2 Diabetes Mellitus/Coronary Artery Disease/depression,1.0,1,72.0
+Loss of appetite/fatigue,3.0,1,72.0
+Coronary Artery Disease/Cerebrovascular Accident,4.0,1,72.0
+Systemic Hypertension/Type 2 Diabetes Mellitus/Coronary Artery Disease/Hyperthyroidism,2.0,1,72.0
+Type 2 Diabetes Mellitus/Morbid obesity,1.0,1,72.0
+Hypothyroidism/Chronic Obstructive Pulmonary Disease/Valvular Heart Disease,5.0,1,72.0
+Fever/Cough/Breathing difficulty ,2.0,1,72.0
+Fatigue,3.75,4,71.75
+Coronary Artery Disease/Diabetes Mellitus/Systemic Hypertension,5.428571428571429,7,71.71428571428571
+Fever/Cough/Tiredness,8.833333333333334,6,71.66666666666667
+Fever/Cough/Abdominal Pain,3.0,2,71.5
+Fever/Cough/loose stools,5.0,6,71.5
+Coronary Artery Disease/Chronic Kidney Disease/Type 2 Diabetes Mellitus/Systemic Hypertension,11.5,2,71.5
+Type 2 Diabetes Mellitus/Chronic Obstructive Pulmonary Disease,9.0,3,71.33333333333333
+Diabetes Mellitus/Hypertension/Hypothyroidism,3.0,1,71.0
+Diabetes Mellitus/Systemic Hypertension/Bronchial Asthma/Coronary Artery Disease/Renal Calculi,6.0,1,71.0
+Type 2 Diabetes Mellitus/Psychosis,11.0,1,71.0
+throat Pain,11.0,1,71.0
+Breathing Difficulty/drowsiness ,12.0,1,71.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Liver Disease/Coronary Artery Disease,13.0,1,71.0
+Old Cerebrovascular Accident/Diabetes Mellitus/Systemic Hypertension,0.0,1,71.0
+Fever/Breathing Difficulty/Loss of Appetite,4.5,2,71.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease/Carcinoma Bladder,0.0,1,71.0
+Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Hypothyroidism,3.0,1,71.0
+Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Old Cerebrovascular Accident,9.0,1,71.0
+Fever/Sore Throat,5.0,3,71.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Acute Kidney Injury,6.0,2,71.0
+Nausea/loss of appetite,12.0,1,71.0
+Fever/Cough/Body Weakness/Breathlessness,4.0,1,71.0
+Fever/Cough/headache/Breathing Difficulty/Chest Pain,11.0,1,71.0
+Fever/Maleria/Loss of taste,2.0,1,71.0
+numbness of right upper limb/slurring of speech,7.0,1,71.0
+Systemic Hypertension/Hypothyroidism/Chronic Kidney Disease,3.0,1,71.0
+Breathing Difficulty/Tiredness/Body Pain,6.0,1,71.0
+Breathing Difficulty/Altered Sensorium,2.0,2,71.0
+Multiple Organ Dysfunction Syndrome,0.0,1,71.0
+Diabetes Mellitus/Multiple Myeloma,1.0,1,71.0
+Systemic Hypertension/Chronic Subdural Hematoma/Chronic Kidney Disease,3.0,1,71.0
+Coronary Artery Disease/Hypothyroidism/Chronic Kidney Disease,1.0,1,71.0
+Cough/Severe Body Pain ,14.0,1,71.0
+Sudden Collapse at Home,0.0,1,71.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Chronic Kidney Disease/Old Anterior Wall myocardial infarction,5.0,1,71.0
+Rheumatoid Arthritis/seizure,2.0,1,71.0
+Loss of Appetite,3.4,5,70.8
+Type 2 Diabetes Mellitus/Hypertension/Coronary Artery Disease,5.4,5,70.8
+Hypertension/Diabetes Mellitus,2.7777777777777777,9,70.77777777777777
+Diabetes Mellitus/Coronary Artery Disease/Systemic Hypertension,7.333333333333333,3,70.66666666666667
+Chronic Kidney Disease/Hypertension/Diabetes Mellitus,7.5,2,70.5
+Chronic Obstructive Pulmonary Disease/Type 2 Diabetes Mellitus,23.5,2,70.5
+Systemic Hypertension/Old Cerebrovascular Accident,7.8,10,70.3
+Diabetes Mellitus/Hypertension/Coronary Artery Disease,3.5,10,70.2
+Fever ,6.454545454545454,66,70.15151515151516
+Systemic Hypertension/Coronary Artery Disease,6.6923076923076925,52,70.03846153846153
+Myalgia/Fever/Cough/Loss of Appetite,6.0,1,70.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Chronic Kidney Disease,6.5,2,70.0
+Systemic Hypertension/Coronary Artery Disease/newly detected diabetes,7.0,1,70.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Bronchial Asthma/Chronic Kidney Disease,11.0,1,70.0
+Metabolic Encephalopathy/Diabetes Mellitus,5.0,1,70.0
+Fever/Shortness of Breath,22.0,1,70.0
+Thyroid Carcinoma,3.0,1,70.0
+Cough/fever,3.0,1,70.0
+General Tiredness/unconsciousness,5.0,1,70.0
+Cough/Breathing Difficulty/Fatigue/Myalgia,6.0,1,70.0
+Hypertension/Hypothyroidism/Chronic Liver Disease,2.0,1,70.0
+Valvular Heart Disease,3.0,1,70.0
+Fever/Headache/Myalgia/Loss of appetite/Nausea,1.0,1,70.0
+Breathing Difficulty/Fever ,14.0,1,70.0
+Systemic Hypertension/Chronic Kidney Disease/Coronary Artery Disease,4.0,2,70.0
+Diabetes Mellitus/Systemic Hypertension/Pulmonary Tuberculosis,1.0,1,70.0
+Diabetes Mellitus/Systemic Hypertension/Pulmonary Tuberculosis/Hypothyroidism,2.0,1,70.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery disease,2.8,5,70.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease -Post Percutaneous Transluminal Coronary Angioplasty,1.0,1,70.0
+Diabetes Mellitus/Systemic Hypertension/Heart Disease,2.0,1,70.0
+Systemic Hypertension/Old Cerebrovascular Accident/Chronic Obstructive Pulmonary Disease,1.0,1,70.0
+Coronary Artery Disease/Valvular heart disease,9.0,1,70.0
+Systemic Hypertension/Coronary Artery Disease/Hypothyroidism,4.0,1,70.0
+Diabetes Mellitus/Chronic Kidney Disease/Systemic Hypertension,1.0,1,70.0
+Diabetes Mellitus/Chronic Obstructive Pulmonary Disease,17.0,1,70.0
+Fever/loose stools ,14.0,1,70.0
+Diabetes Mellitus/Coronary Artery disease,1.0,1,70.0
+Diabetes Mellitus/Diabetic Keto Acidosis,2.0,1,70.0
+Systemic Hypertension/Coronary Artery Disease/Chronic Kidney Disease/seizure,0.0,1,70.0
+Fever/Cough/Breathing Difficulty/Chest Pain ,8.0,1,70.0
+Fever/Cough/Breathing Difficulty/Body Pain,2.0,1,70.0
+Stroke,0.0,1,70.0
+Type 2 Diabetes Mellitus/Right sided Pyelonephritis,20.0,1,70.0
+Chronic Anemia,9.0,1,70.0
+Cough/Breathing Difficulty/general myalgia,1.0,1,70.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease/Cerebrovascular Accident,0.0,1,70.0
+Fever/Cough/Breathing Difficulty/Loose stools/Decrease in oral Intake,10.0,1,70.0
+Fever/Cough/Breathing Difficulty/Loss of appetite,0.0,1,70.0
+Fever/loss of Appetite,11.0,1,70.0
+Suspected Recurrent Cerebrovascular Accident/Renal failure,9.0,1,70.0
+Loose stools,5.818181818181818,11,69.9090909090909
+Fever/Breathing Difficulty/Body Pain,3.0,2,69.5
+Breathing Difficulty/Loss of Appetite,4.5,2,69.5
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Systemic Hypertension,9.222222222222221,9,69.44444444444444
+Old Cerebrovascular Accident,3.142857142857143,7,69.42857142857143
+Coronary Artery Disease/Type 2 Diabetes Mellitus/Systemic Hypertension,5.571428571428571,7,69.14285714285714
+Coronary Artery Disease/Systemic Hypertension,5.0,19,69.10526315789474
+Hypothyroidism/Chronic Kidney Disease,3.0,1,69.0
+Cough/Shortness of Breath/general body pain/Fatigue/Loose stools,8.0,1,69.0
+Breathing Difficulty/Vomiting/loose stools,3.0,1,69.0
+Myalgia/Fever/Cough,14.0,1,69.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Chronic Kidney Disease/Chronic Obstructive Pulmonary Disease,3.0,2,69.0
+Cancer Rectum/Type 2 Diabetes Mellitus,11.0,1,69.0
+Coronary Artery Disease/Chronic Kidney Disease/Diabetes Mellitus/Hypertension/Hypothyroidism,6.0,1,69.0
+Cough/Breathing Difficulty/Fever ,5.0,1,69.0
+Systemic Hypertension/Myasthenia Gravis,4.0,1,69.0
+Fever/Cough/Breathing Difficulty/Anorexia,7.0,1,69.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Acute Kidney Disease,5.0,1,69.0
+Systemic Hypertension/Hyperlipidemia,3.0,1,69.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Cerebrovascular Accident/Left Hemiplegia,5.0,1,69.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Post Coronary Artery Bypass Grafting,10.0,1,69.0
+Sub Mandular Node Metastasis,11.0,1,69.0
+Shortness of Breath,6.0,1,69.0
+Fever/Cough/Breathlessness/Myalgia,9.0,1,69.0
+Coronary Artery Disease/Hypothyroidism,10.0,2,69.0
+Diabetes Mellitus/Old Anterior Wall myocardial infarction,3.0,1,69.0
+Diabetes Mellitus/Systemic Hypertension/Old Cerebrovascular Accident/Old Fracture femur,2.0,1,69.0
+Type 2 Diabetes Mellitus/Leg Osteomyelitis,13.0,1,69.0
+Breathing Difficulty ,5.0625,112,68.91071428571429
+Diabetes Mellitus/seizure,4.0,4,68.75
+Fever/Cough/Myalgia/Breathing Difficulty,7.5,4,68.75
+Fever/Breathing Difficulty/Loose stools,11.5,2,68.5
+Fever/Fatigue,3.25,4,68.5
+Coronary Artery Disease/Hypertension,12.333333333333334,3,68.33333333333333
+Diabetes mellitus/Systemic Hypertension,8.166666666666666,6,68.16666666666667
+Chronic Kidney Disease/Cerebrovascular Accident/Hemiplegia,3.0,1,68.0
+Fever/Breathing Difficulty/Myalgia/Nausea,8.0,1,68.0
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Metabolic Encephalopathy,1.0,1,68.0
+Type 2 Diabetes Mellitus/Dyslipidemia,2.0,1,68.0
+General Tiredness/vomiting/Breathing Difficulty,6.0,1,68.0
+Vomiting/Abdominal Pain,5.0,1,68.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Carcinoma Left Lung Post Chemotherapy/Radiotherapy,1.0,1,68.0
+Tiredness/Cough,16.0,1,68.0
+Type 2 Diabetes Mellitus/Parkinsonism/Old Cerebrovascular Accident,1.0,1,68.0
+Systemic Hypertension/Metabolic Encephalopathy/Acute Kidney Injury/Hypernatremia,4.0,1,68.0
+Stomach ache/loss of appetite,5.0,1,68.0
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Coronary Artery Disease,1.0,3,68.0
+Breathing Difficulty/Throat Pain,8.0,1,68.0
+General Tiredness,6.0,1,68.0
+Hypertension/Type 2 Diabetes Mellitus/Cerebrovascular Accident,8.0,1,68.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Rheumatoid Arthritis,16.0,1,68.0
+Loss of appetite,6.5,4,68.0
+Cough/Breathlessness/Myalgia/Bronchial Asthma,9.0,1,68.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Chronic Kidney Disease/Hypothyroidism,6.0,1,68.0
+Fever/Cold/loss of taste,8.0,1,68.0
+Drowsiness ,7.5,2,68.0
+Drowsiness,11.5,2,68.0
+Diabetes/Systemic Hypertension/Coronary Artery Disease,1.0,1,68.0
+Acute Kidney Injury,10.75,4,68.0
+Systemic Hypertension/Chronic Obstructive Pulmonary Disease,7.166666666666667,6,68.0
+Bronchial Asthma/Old Tuberculosis/Coronary Artery Disease,1.0,1,68.0
+Fever/dry Cough/left sided chest Pain/breathlessness,1.0,1,68.0
+Chest Pain/Palpitations ,8.0,1,68.0
+Blood Cancer,9.0,1,68.0
+Shortness of Breath/Giddiness,6.0,1,68.0
+Schizophrenia/Chronic Kidney Disease,7.0,1,68.0
+Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease,6.333333333333333,27,67.81481481481481
+Breathlessness ,7.5,4,67.75
+Fever/Breathing Difficulty/loose stools,1.75,4,67.75
+Hypertension/Diabetes mellitus,7.666666666666667,3,67.66666666666667
+Fever/Cough/headache,8.5,2,67.5
+Cough/Breathing Difficulty/Headache,6.0,2,67.5
+Type 2 Diabetes Mellitus/Systemic Hypertension/Cerebrovascular Accident/Chronic Kidney Disease,4.0,2,67.5
+Type 2 Diabetes Mellitus/Renal Failure,4.5,2,67.5
+Chronic Kidney Disease/Diabetes Mellitus/Systemic Hypertension,4.0,2,67.5
+Cough ,9.705882352941176,17,67.41176470588235
+Systemic Hypertension/Diabetes Mellitus/Coronary Artery Disease,1.8,5,67.4
+Fever/breathlessness ,5.416666666666667,12,67.33333333333333
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease,5.912162162162162,148,67.3108108108108
+Systemic Hypertension/seizure,5.0,5,67.2
+Coronary Artery Disease,5.235294117647059,119,67.01680672268908
+Diabetes Mellitus/Hypertension/Coronary Artery Disease/Hypothyroidism,2.0,1,67.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Cerebrovascular Accident,11.0,1,67.0
+Diabetes Mellitus/Tuberculosis spine/rheumatic heart disease/Chronic Obstructive Pulmonary Disease,15.0,1,67.0
+Type 2 Diabetes Mellitus/Hypertension/Chronic Kidney Disease/Obesity,1.0,1,67.0
+Diabetes Mellitus/Cerebrovascular Accident,9.333333333333334,3,67.0
+Fever/breathlessness/Cough,1.0,2,67.0
+Type 2 Diabetes mellitus/Systemic Hypertension/Coronary Artery Disease,5.0,1,67.0
+Breathing Difficulty/Myalgia/Headache,2.0,1,67.0
+One Episode of Seizures,2.0,1,67.0
+Fever/Loss of appetite/Breathing Difficulty,9.0,1,67.0
+Fever/Cough/Headache,13.0,2,67.0
+Breathing Difficulty/Loss of Smell,2.0,1,67.0
+Fever/Cough/Breathing Difficulty/Less food intake,3.0,1,67.0
+Type 2 Diabetes Mellitus/Pyelonephrosis,21.0,1,67.0
+Fever/breathlessness/headache/body Pain,9.0,1,67.0
+Chronic Obstructive Pulmonary Disease,6.142857142857143,14,67.0
+Fever/breathlessness/loose stools,10.0,1,67.0
+Old Cerebrovascular Accident/Systemic Hypertension,3.0,1,67.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Obesity/Coronary Artery Disease/Chronic Obstructive Pulmonary Disease/Chronic Kidney Disease,0.0,1,67.0
+Type 2 Diabetes Mellitus/seizure/Parkinsonism,3.0,1,67.0
+Multiple Myeloma/Acute on Chronic Kidney Disease/Systemic Hypertension/Coronary Artery Disease/Type 2 Diabetes Mellitus,15.0,1,67.0
+Fever/Breathing Difficulty/tiredness,5.0,1,67.0
+Breathing Difficulty/Fever,8.2,5,67.0
+seizure/Chronic Kidney Disease,5.0,1,67.0
+Cancer Oropharynx,14.0,2,67.0
+Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Thyroid,1.0,1,67.0
+Diabetes Mellitus/Systemic Hypertension/Coronary Artery disease,21.0,1,67.0
+Systemic lupus erythematosus,1.0,1,67.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Renal Failure,42.0,1,67.0
+Cerebrovascular Accident/Coronary Artery Disease/Valvular Heart Disease,9.0,1,67.0
+Fever/Abdominal Pain,6.0,1,67.0
+Systemic Hypertension/Chronic Kidney Disease/IHD,11.0,1,67.0
+Ischemic Dilated Cardio myopathy/Type 2 Diabetes Mellitus/Systemic Hypertension,2.0,1,67.0
+Cough/Breathing Difficulty/Nausea,0.0,1,67.0
+Weakness,4.0,1,67.0
+Fever/Body pain/Cough/Cold,5.0,1,67.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Hyperlipidemia/Hypothyroidism/Acute on Chronic Kidney Disease,9.0,1,67.0
+Diabetes/Hypertension,2.0,6,66.83333333333333
+Acute Cerebrovascular Accident,7.6,5,66.6
+Fever/loose stools,6.0,4,66.5
+Fever/Tiredness,5.75,4,66.5
+Coronary Artery Disease/Diabetes Mellitus/Hypothyroidism,2.5,2,66.5
+Systemic Hypertension/Type 2 Diabetes Mellitus/Coronary Artery Disease/Chronic Kidney Disease,5.5,2,66.5
+Bronchial Asthma/Type 2 Diabetes Mellitus,3.3333333333333335,3,66.33333333333333
+Cough/Breathing Difficulty/Fever,7.333333333333333,3,66.33333333333333
+Fever,7.300438596491228,912,66.22697368421052
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Systemic Hypertension,6.555555555555555,9,66.11111111111111
+IHD,0.0,1,66.0
+Cough/General Tiredness/Loose stools,4.0,1,66.0
+Breathlessness/tiredness/fatigue ,3.0,1,66.0
+Systemic Hypertension/Type 2 Diabetes Mellitus/Chronic Kidney Disease/Coronary Artery Disease,13.0,1,66.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Obstructive Pulmonary Disease,8.0,2,66.0
+fever/breathlessness ,0.0,1,66.0
+Hypertension/Diabetes mellitus/Coronary Artery Disease,7.0,1,66.0
+Diabetes Mellitus/Cerebrovascular Accident/Left Hemiplegia,1.0,1,66.0
+Hypertension/Diabetes Mellitus/Parkinsonism,5.0,1,66.0
+Type 2 Diabetes Mellitus/Chronic obstructive Pulmonary Disease/Chronic Kidney Disease,0.0,1,66.0
+Fever/body Pain/Breathing Difficulty,11.0,2,66.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Leprosy,19.0,1,66.0
+Post Valve Replacement,5.0,1,66.0
+Fever/Shortness of Breath/Cough,5.0,1,66.0
+Chest Pain/Loose stools ,8.0,1,66.0
+Type 2 Diabetes mellitus/Coronary Artery Disease,11.666666666666666,3,66.0
+Giddiness/diarrhoea ,8.0,1,66.0
+Cough/Breathing Difficulty/Body Pain/Loose stools ,9.0,1,66.0
+Coronary Artery Disease/Diabetes Mellitus/Hypertension,10.5,2,66.0
+Fever/Loose stools/Myalgia,19.0,1,66.0
+Systemic Hypertension/Type 2 Diabetes Mellitus/Severe Depression,3.0,1,66.0
+Fever/Cough/Diarrhoea/Breathing Difficulty,11.0,1,66.0
+Cough/Vomiting,13.0,1,66.0
+Fever/Hiccups/Vomiting,4.0,1,66.0
+Type 2 Diabetes Mellitus/Old Cerebrovascular Accident,4.0,7,66.0
+Fever/Breathing Difficulty/Vomiting/Loose stools,13.0,1,66.0
+Hypertension/Chronic kidney disease,1.0,1,66.0
+Cough/Shortness of Breath ,2.0,1,66.0
+Breathing Difficulty/General Tiredness,2.0,1,66.0
+Fever/Breathing Difficulty/Cough,8.285714285714286,49,66.0
+body weakness,8.0,1,66.0
+Hypertension/Type 2 Diabetes Mellitus/Coronary Artery Disease,9.0,1,66.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Hypothyroidism,4.0,2,66.0
+Fever/Breathing Difficulty/Tiredness,6.666666666666667,3,66.0
+Cough/Breathing Difficulty/Loose stools,3.5,2,66.0
+Cough,7.858552631578948,304,65.99342105263158
+Cough/Fever,11.0625,16,65.8125
+Systemic Hypertension/Psychiatric Illness,2.6666666666666665,3,65.66666666666667
+Fever/Diarrhoea,5.0,3,65.66666666666667
+Diabetes mellitus/Hypertension,4.2,5,65.6
+Breathing Difficulty,5.640226628895184,706,65.57648725212465
+Type 2 Diabetes Mellitus/Hypertension,3.6551724137931036,29,65.51724137931035
+Cough/myalgia,6.0,4,65.5
+Diabetes Mellitus/systemic Hypertension,3.5,2,65.5
+Diabetes,6.666666666666667,6,65.5
+Systemic Hypertension/Type 2 Diabetes Mellitus,4.535483870967742,155,65.38709677419355
+Renal Failure,3.6666666666666665,3,65.33333333333333
+Tiredness,9.166666666666666,12,65.25
+Type 2 Diabetes Mellitus/Systemic Hypertension/Right Vestibular Schwannoma,0.0,1,65.0
+Type 2 Diabetes Mellitus/Chronic obstructive Pulmonary Disease/seizure,4.0,1,65.0
+Vomiting,6.666666666666667,3,65.0
+Diarrhoea,2.0,3,65.0
+Chest Pain,6.333333333333333,3,65.0
+Fever/Myalgia/Fatigue ,8.0,1,65.0
+Type 2 Diabetes Mellitus/Cerebrovascular Accident/Coronary Artery Disease/Chronic Kidney Disease/Systemic Hypertension,1.0,1,65.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Dilated Cardiomyopathy,0.0,1,65.0
+Dysponea ,3.0,1,65.0
+Fever/Altered sensorium,4.0,1,65.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Post Angioplasty/Chronic obstructive Pulmonary Disease,4.0,1,65.0
+Cough/Vomiting ,7.0,1,65.0
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Hypothyroidism,5.0,1,65.0
+Type 2 Diabetes Mellitus/Diffuse Axonal Injury,1.0,1,65.0
+Cough/Sore Throat/Dysponea,3.0,1,65.0
+Hansen'disease,4.0,1,65.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Hypothyroidism/Obesity/Obstructive Sleep Apnea,14.0,1,65.0
+Systemic Hypertension/atrial Fibrillation,1.0,1,65.0
+Fever/Breathing Difficulty/Vomiting,12.0,1,65.0
+Vomiting/myalgia/Loss of appetite,18.0,1,65.0
+Type 2 Diabetes Mellitus/Systemic hypertension,3.0,1,65.0
+Fever/Sore throat/Loss of Taste/Myalgia,11.0,1,65.0
+Bronchogenic Carcinoma,16.0,1,65.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Chronic Kidney disease/Systemic Hypertension,2.0,1,65.0
+Fever/loose stools/Vomiting,12.0,1,65.0
+Diabetes Mellitus/Diabetic Keto Acidosis/Hypertension,7.0,1,65.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Old Cerebrovascular Accident/Diabetic Nephropathy,4.0,1,65.0
+Type 2 Diabetes Mellitus/Carcinoma Left breast,17.0,1,65.0
+Diabetes Mellitus/Hypertension/Pulmonary Hypertension,12.0,1,65.0
+Tuberculosis,4.0,1,65.0
+Type 2 Diabetes mellitus/Systemic Hypertension/Chronic obstructive Pulmonary Disease/Coronary Artery Disease/Chronic Kidney Disease,1.0,1,65.0
+Peripheral Vascular Disease,57.0,1,65.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Nephropathy,30.0,1,65.0
+Diabetes Mellitus/Systemic Hypertension/seizure,3.0,1,65.0
+Diabetes Mellitus/Ovarian Cancer,3.0,1,65.0
+Diabetes Mellitus/Systemic Hypertension/Bronchial Asthma,3.0,1,65.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Old Intracranial Hemorrhage/Chronic Kidney Disease,1.0,1,65.0
+Chronic Kidney disease/Systemic Hypertension,9.0,1,65.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Hypothyroidism/Coronary Artery Disease/Old Cerebrovascular Accident/Right Hemiplegia,2.0,1,65.0
+Unstable Angina,31.0,1,65.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Old Inferior Wall Myocardial infarction,1.0,1,65.0
+Coronary Artery Disease/Dilated Cardiomyopathy,12.0,1,65.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Cerebrovascular accident/Mucormycosis,2.0,1,65.0
+Coronary Artery Disease/Left Ventricular Dysfunction,21.0,1,65.0
+Fever/Cough/Breathing Difficulty/Loose stools/Cold,3.0,1,65.0
+Hypertension/Bronchial Asthma,3.0,1,65.0
+Systemic Hypertension/Type 2 Diabetes Mellitus/Old pulmonary Tuberculosis,1.0,1,65.0
+Fever/Cough/breathlessness/headache/body Pain,10.0,1,65.0
+Fever/Cough/Vomiting,1.0,1,65.0
+Cough/Cold/body Pain,5.0,1,65.0
+Systemic Hypertension/Chronic Renal Disease,6.0,1,65.0
+Type 2 Diabetes Mellitus/Hypertension/Cerebrovascular Accident,66.0,1,65.0
+Cough/Myalgia/Throat Pain/Loose stools,7.0,1,65.0
+Fever/Cold/Cough,12.5,2,65.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease/Invasive Fungal Sinusitis,3.0,1,65.0
+Hypertension/Hypothyroidism,17.0,1,65.0
+Hypertension/Hyperthyroidism,3.0,1,65.0
+Type 2 Diabetes Mellitus/Hypertension/Hypothyroidism,4.0,1,65.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease,4.82089552238806,67,64.85074626865672
+Systemic Hypertension/Diabetes Mellitus,5.596774193548387,62,64.69354838709677
+Type 2 Diabetes Mellitus/Systemic Hypertension/Cerebrovascular Accident,5.666666666666667,9,64.66666666666667
+Coronary Artery Disease/Systemic Hypertension/Diabetes Mellitus,6.666666666666667,3,64.66666666666667
+Type 2 Diabetes Mellitus/Coronary Artery Disease,5.71830985915493,71,64.63380281690141
+Diabetes Mellitus/Systemic Hypertension,4.851485148514851,202,64.57425742574257
+Type 2 Diabetes Mellitus/Systemic Hypertension/Hypothyroidism,4.214285714285714,28,64.53571428571429
+Cough/breathing difficulty,4.5,2,64.5
+Fever/Cough/Breathing Difficulty/body Pain,5.0,2,64.5
+Systemic Hypertension/Diabetes mellitus/Chronic Kidney Disease,0.5,2,64.5
+Systemic Hypertension/Type 2 Diabetes Mellitus/Coronary Artery Disease,6.1875,16,64.4375
+Hypertension,4.815789473684211,76,64.4342105263158
+Fever/Cough/breathlessness ,6.5,20,64.4
+Systemic Hypertension,5.374803149606299,635,64.34803149606299
+Systemic Hypertension/Coronary Artery Disease/Type 2 Diabetes Mellitus,8.0,3,64.33333333333333
+Systemic Hypertension/Bronchial Asthma/Type 2 Diabetes Mellitus,16.0,1,64.0
+Cough/Breathlessness/dysponea,15.0,1,64.0
+Fever/headache/General Pain/Breathing Difficulty,3.0,1,64.0
+Chronic Kidney Disease/Uremic Gastritis,2.0,1,64.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease/Diabetic Keto Acidosis,3.0,1,64.0
+Type 2 Diabetes Mellitus/Hypertension/Chronic Kidney Disease,6.0,1,64.0
+Systemic Hypertension/Bronchial Asthma/OSAS,0.0,1,64.0
+Diabetes Mellitus/Systemic Hypertension/Chronic obstructive Pulmonary Disease/Old Cerebrovascular Accident/Pott'spine,0.0,1,64.0
+Fever/myalgia,7.6,10,64.0
+seizure/Hypertension,3.0,1,64.0
+Type 2 Diabetes Mellitus/fungal sinusitis,2.0,1,64.0
+Cough/Loss of Taste,2.0,1,64.0
+Fever/Vomiting/Myalgia,10.0,1,64.0
+Chronic Kidney Disease/Type 2 Diabetes Mellitus/Chronic Obstructive Pulmonary Disease/Systemic Hypertension,10.0,1,64.0
+Diabetes Mellitus/Adenocarcinoma Rectum,7.0,1,64.0
+Tiredness/vomiting,2.0,1,64.0
+Chronic Kidney disease/Diabetes Mellitus/Systemic Hypertension,6.0,1,64.0
+Fever/Loose stools/Loss of Taste,8.0,1,64.0
+COVID Pneumonia/Acute Respiratory distress Syndrome,2.0,1,64.0
+Fever/Fatigue/Myalgia/Breathing Difficulty ,8.0,1,64.0
+Fever/Cough/Body Pain/general Tiredness,10.0,1,64.0
+Fever/Headache/Fatigue,1.0,1,64.0
+Drowsiness/Disoriented speech,10.0,1,64.0
+Extreme tiredness/Dry Cough,9.0,1,64.0
+Fever/Breathing Difficulty/Loss of Taste/body weakness/Giddiness,0.0,1,64.0
+Hiccups/loose stools/decreased urine output,5.0,1,64.0
+old Cerebrovascular Accident,2.0,1,64.0
+Fever/Cough,7.965977318212142,1499,63.982655103402266
+Myalgia,10.0625,16,63.875
+Type 2 Diabetes Mellitus/Systemic Hypertension,5.15438950554995,991,63.763874873864786
+Fever/Breathing Difficulty,6.558441558441558,1001,63.753246753246756
+Type 2 Diabetes Mellitus/Systemic Hypertension/Old Cerebrovascular Accident,4.375,8,63.75
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic obstructive Pulmonary Disease,11.0,7,63.714285714285715
+Cerebrovascular Accident/Systemic Hypertension,8.8,5,63.6
+Diabetes mellitus,4.0,24,63.583333333333336
+Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Chronic Kidney Disease,2.0,2,63.5
+Severe Anemia,3.5,2,63.5
+Systemic Hypertension/Rheumatoid Arthritis,6.0,2,63.5
+Giddiness,2.6,5,63.4
+Diabetes Mellitus/Hypertension/Chronic Kidney Disease,2.6,5,63.4
+Diabetes Mellitus/Hypertension,4.978021978021978,91,63.38461538461539
+Coronary Artery Disease/Type 2 Diabetes Mellitus,7.444444444444445,18,63.27777777777778
+Breathing Difficulty/Cough,6.133333333333334,15,63.2
+Cough/Breathing Difficulty,6.353185595567867,722,63.10526315789474
+Type 2 Diabetes Mellitus/Diabetic Nephropathy/Bladder Outlet Obstruction,0.0,1,63.0
+Tiredness/sleeping difficulty,5.0,1,63.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Old Cerebrovascular Accident,5.0,2,63.0
+Cough/General Tiredness,7.0,1,63.0
+Headache/Eye Swelling,2.0,1,63.0
+Chronic Obstructive Pulmonary Disease/Diabetes Mellitus,17.0,1,63.0
+Shortness of breath,15.0,1,63.0
+Fever/Giddiness,3.0,1,63.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease/Acute Anemia,0.0,1,63.0
+Type 2 Diabetes Mellitus/Hypertension/Diabetic Keto Acidosis,1.0,1,63.0
+Chronic Kidney disease/Type 2 Diabetes Mellitus,11.0,2,63.0
+Fever/Cough/Breathing Difficulty/Hyperglycemia,3.0,1,63.0
+Diabetes mellitus/Coronary Artery Disease,9.0,1,63.0
+Cough/shortness of breath,7.0,1,63.0
+Body Pain/Loss of Appetite,11.0,1,63.0
+Diabetes/Hypertension/Hypothyroidism/Coronary Artery Disease,0.0,1,63.0
+Giddiness/breathlessness/myalgia/Vomiting/nausea,5.0,1,63.0
+Type 2 Diabetes Mellitus/Cerebrovascular Accident/Systemic Hypertension,7.0,1,63.0
+Shortness of breath/chest Pain/vomiting,1.0,1,63.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/parkinsonism,5.0,2,63.0
+Muscular Dystrophy,2.0,1,63.0
+Fever/Cough/Breathing Difficulty/Loose stools/Myalgia/Loss of Smell,12.0,1,63.0
+Fever/Cough/Body Pain,9.0,10,62.8
+Fever/Cough ,7.685714285714286,70,62.785714285714285
+Coronary Artery Disease/Diabetes Mellitus,7.714285714285714,7,62.714285714285715
+Epilepsy,2.3333333333333335,3,62.666666666666664
+Hypertension/Type 2 Diabetes Mellitus,9.666666666666666,3,62.666666666666664
+Fever/Cough/Breathing Difficulty/Myalgia,6.76,25,62.64
+Fever/Cough/Myalgia,7.2105263157894735,38,62.578947368421055
+Fever/Cough/Breathing Difficulty,6.595588235294118,3672,62.555010893246184
+Diabetes Mellitus/Acute Kidney Injury,7.0,2,62.5
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease/Anemia,1.5,2,62.5
+Cough/Headache,5.0,2,62.5
+Cough/Breathing Difficulty/Myalgia,7.0,5,62.4
+Systemic Hypertension/Bronchial Asthma,6.8,5,62.4
+Fever/Cough/Breathing Difficulty ,6.472563472563473,1221,62.36199836199836
+Diabetes Mellitus/Systemic Hypertension/Cerebrovascular Accident,1.3333333333333333,3,62.333333333333336
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Cerebrovascular Accident,5.25,4,62.25
+Cough/Myalgia,9.2,15,62.13333333333333
+Fever/Cough/Breathing Difficulty/Loose stools,8.0,12,62.083333333333336
+Diabetes/Systemic Hypertension/Chronic Kidney Disease,1.0,1,62.0
+Cerebrovascular Accident/Left Hemiparesis/Systemic Hypertension,6.0,1,62.0
+Systemic Hypertension/Diabetes Mellitus/Coronary Artery Disease/Hypothyroidism,3.5,2,62.0
+Non Hodgkins Lymphoma,10.0,1,62.0
+Cerebrovascular Accident/Type 2 Diabetes Mellitus/Systemic Hypertension,4.0,1,62.0
+Breathing Difficulty/Myalgia/Loss of appetite/Giddiness,1.0,1,62.0
+Cough/Sore throat,3.3333333333333335,3,62.0
+Chronic Kidney Disease/Coronary Artery Disease,3.0,3,62.0
+Cough/Breathing Difficulty/Loss of Taste,3.0,1,62.0
+Fever/Cough/Breathing Difficulty/Severe Tiredness/Giddiness,9.0,1,62.0
+Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Cerebrovascular Accident,1.0,1,62.0
+Old Cerebrovascular Accident/Hypertension/Type 2 Diabetes Mellitus,3.0,1,62.0
+Systemic Hypertension/Hypothyroidism/Coronary Artery Disease,2.0,1,62.0
+Shortness of breath/Cough,3.0,1,62.0
+Carcinoma Pharynx,1.0,1,62.0
+Carcinoma Anal Canal/Systemic Hypertension,9.0,1,62.0
+Bronchial Asthma/Chronic obstructive Pulmonary Disease,8.0,1,62.0
+Type 2 Diabetes Mellitus/Cancer Breast,11.0,2,62.0
+Rheumatoid Arthritis,6.5,4,62.0
+Type 2 Diabetes Mellitus/Chronic Kidney Disease,4.7924528301886795,53,61.9622641509434
+Fever/Myalgia,8.083333333333334,24,61.958333333333336
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Chronic Kidney Disease,5.181818181818182,11,61.90909090909091
+Fever/Cough/Diarrhoea,5.5,4,61.75
+Cough/Breathing Difficulty ,6.742424242424242,66,61.72727272727273
+Chronic Kidney Disease,3.55,60,61.71666666666667
+Diabetes Mellitus/Chronic Kidney Disease,4.625,8,61.625
+Type 2 Diabetes Mellitus/Bronchial Asthma/Seizure,1.0,2,61.5
+Breathing Difficulty/Myalgia,5.777777777777778,9,61.44444444444444
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Coronary Artery Disease/Systemic Hypertension,3.0,3,61.333333333333336
+Diabetes Mellitus/Coronary Artery Disease,5.4,15,61.266666666666666
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease/Coronary Artery Disease,2.0,4,61.25
+Systemic Hypertension/Type 2 Diabetes Mellitus/Chronic Kidney Disease,6.0,7,61.142857142857146
+Altered Sensorium,5.5,4,61.0
+Diarrhoea ,16.0,1,61.0
+Systemic Hypertension/Type 2 Diabetes Mellitus/Obesity,25.0,1,61.0
+Fever/Cough/Breathing Difficulty/Throat Pain,10.0,1,61.0
+Fever/sore throat,24.0,1,61.0
+General Tiredness/Headache,4.0,1,61.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Systemic Hypertension/Hypothyroidism,2.0,2,61.0
+Fever/Cough/tiredness/Breathing Difficulty,6.0,1,61.0
+Acute Anterior Wall Myocardinal infarction/Hypertension,0.0,1,61.0
+Cough/breathlessness/loss of taste/nausea,19.0,1,61.0
+Chronic Depression,3.0,1,61.0
+Type 2 Diabetes Mellitus/Cancer Ovary,13.0,1,61.0
+Tiredness/Diarrhoea,5.0,1,61.0
+Breathlessness/Chest Pain,11.0,1,61.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease/Hypothyroidism,2.6666666666666665,3,61.0
+Fever/Cough/breathing Difficulty/sore throat,1.0,1,61.0
+Chronic Kidney Disease/Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease,7.0,1,61.0
+Fever/loss of taste,11.0,1,61.0
+Fever/Breathlessness/Cough ,13.0,1,61.0
+Lymphoma,2.0,1,61.0
+Cough/Breathlessness/Loose stools,2.0,1,61.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Hypertension,11.0,2,61.0
+Loss of Smell/Nausea,14.0,1,61.0
+Chronic Kidney Disease/Diabetes mellitus,8.5,2,61.0
+Cough/Breathlessness ,8.0,5,60.8
+Fever/breathlessness,6.111111111111111,27,60.77777777777778
+Fever/Cough/breathing difficulty,6.3,10,60.7
+Systemic Hypertension/Cerebrovascular Accident,3.4,5,60.6
+Cough/Fever/breathlessness,7.0,2,60.5
+Systemic Hypertension/Diabetes Mellitus/Chronic Kidney Disease,4.5,6,60.5
+Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease,4.5,10,60.4
+Fever/Body Pain,11.8,5,60.4
+Diabetes Mellitus,5.582914572864322,398,60.369346733668344
+Fever/Breathing Difficulty ,8.333333333333334,6,60.333333333333336
+Chronic Kidney Disease/Diabetes Mellitus,8.142857142857142,7,60.285714285714285
+Fever/Cough/breathlessness,6.83125,160,60.28125
+Cough/breathlessness,4.678571428571429,28,60.17857142857143
+Type 2 Diabetes Mellitus/Diabetes Mellitus/Coronary Artery Disease,3.0,1,60.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Pre Renal Azotemia,14.0,1,60.0
+Coronary Artery Disease/Acute Coronary Syndrome/Type 2 Diabetes Mellitus,17.0,1,60.0
+Fever/loss of appetite/myalgia,4.0,1,60.0
+Previous Hepatitis B Infection/Diabetes Mellitus,14.0,1,60.0
+Type 2 Diabetes Mellitus/uncontrolled Hyperglycemia,0.0,1,60.0
+Parkinsonism/Type 2 Diabetes Mellitus,4.0,2,60.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Tuberculosis/Bronchial Asthma/seizure/Coronary Artery Disease/Chronic Kidney Disease,5.0,1,60.0
+Coronary Artery Disease/Multiple Myeloma/Pericardial Effusion/Restrictive Cardiomyopathy/Sick Sinusyndrome,0.0,1,60.0
+Cough/Fever/Breathlessness,0.0,1,60.0
+Type 2 Diabetes Mellitus/old Cerebrovascular Accident,4.0,2,60.0
+Cough/Breathing Difficulty/general tiredness,7.0,1,60.0
+Coronary Artery disease/Chronic Kidney Disease/Systemic Hypertension,8.0,1,60.0
+Old Cerebrovascular Accident/Hypertension,3.0,1,60.0
+Cough/headache/body Pain/loose stools,12.0,1,60.0
+Cough/general Tiredness,3.0,1,60.0
+Dry Cough,10.0,1,60.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/HBSAG Positive,3.0,1,60.0
+Systemic Hypertension/Atrial Fibrillation,2.0,1,60.0
+Cerebrovascular Accident/Ischemic Stroke,7.0,1,60.0
+Diabetes mellitus/Systemic Hypertension/Chronic Kidney Disease,2.0,1,60.0
+breathlessness/Cough,6.0,1,60.0
+Cough/Breathlessness/Fever,8.0,1,60.0
+Type 2 Diabetes Mellitus/Inter Ventricular Conduction Defect/Hypokalemia/Coronary Artery Disease,8.0,1,60.0
+Fever/breathlessness/Myalgia,21.0,1,60.0
+Type 2 Diabetes Mellitus/Active Pulmonary Tuberculosis,6.0,1,60.0
+Fever/Tiredness/Cough,0.0,1,60.0
+Fever/Cough/Fatigue,14.0,1,60.0
+Systemic Hypertension/Type 2 Diabetes Mellitus/Pulmonary Tuberculosis,2.0,1,60.0
+Type 2 Diabetes Mellitus/Lepromatous Leprosy/Anemia,11.0,1,60.0
+Fever/tiredness,20.0,1,60.0
+Leprosy,7.0,1,60.0
+Fever/Cough/Loose stools/Vomiting,1.0,1,60.0
+Fever/Cough/Breathing Difficulty/myalgia,6.0,1,60.0
+Fever/Cough/Shortness of Breath,9.6,5,60.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Acute Renal Failure,0.0,1,60.0
+Thyroid disorder,3.0,1,60.0
+Type 2 Diabetes Mellitus/Epilepsy/Coronary Artery Disease/Hypertension,4.0,1,60.0
+Breathing Difficulty/Body Pain,5.0,2,60.0
+Hypertension/Acute Kidney Injury,5.0,1,60.0
+Type 2 Diabetes Mellitus/Asthma,15.0,1,60.0
+Body Pain,7.0,1,60.0
+Fever/Cough/Breathing Difficulty/loss of smell,10.0,1,60.0
+Cough/Fever/Breathing Difficulty,9.714285714285714,7,59.57142857142857
+Breathlessness,5.95,20,59.55
+Type 2 Diabetes Mellitus/Systemic Hypertension/Acute Kidney Injury,6.5,2,59.5
+Chronic Kidney Disease/Type 2 Diabetes Mellitus,4.0,4,59.5
+Fever/Cough/Breathing Difficulty/Loose stools ,5.5,2,59.5
+Type 2 Diabetes Mellitus/Obesity,4.75,4,59.5
+Type 2 Diabetes Mellitus/Cerebrovascular Accident,4.875,8,59.5
+Fever/Cough/Breathlessness,7.54054054054054,74,59.41891891891892
+Fever/Cough/Sore Throat,8.2,5,59.4
+Fever/Cough/Breathlessness ,7.888888888888889,18,59.388888888888886
+Systemic Hypertension/Obesity,4.666666666666667,3,59.333333333333336
+Fever/Cough/Cold,5.0,11,59.27272727272727
+Type 2 Diabetes Mellitus,5.404990403071017,1563,59.26231605886117
+Fever/Cough/Breathing difficulty,6.666666666666667,9,59.22222222222222
+Fever/Cough/Shortness of breath,8.375,8,59.125
+Chronic Kidney Disease/Systemic Hypertension/Type 2 Diabetes Mellitus/Hypothyroidism,5.0,1,59.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Obesity,3.0,1,59.0
+Fever/breathlessness/altered sensorium ,4.0,1,59.0
+drowsiness,0.0,1,59.0
+Chronic Kidney Disease/Systemic Hypertension/Heart Disease,5.0,1,59.0
+Fever/Breathlessness/Myalgia,2.0,2,59.0
+Cough/Breathing Difficulty/Loose stools ,4.0,1,59.0
+Fever/general Tiredness,1.0,1,59.0
+Fever/Breathlessness ,10.666666666666666,6,59.0
+Chronic Kidney disease/Decompensated Chronic Liver Disease,1.0,1,59.0
+Anemia,5.125,8,59.0
+Morbid Obesity/Diabetes Mellitus/Hypertension,9.0,1,59.0
+Cough/fever/Breathing Difficulty,3.0,1,59.0
+Cough/tiredness,1.0,1,59.0
+Fever/Cough/Breathing Difficulty/diarrhoea,8.0,1,59.0
+Morbid Obesity/Systemic Hypertension,4.0,1,59.0
+Diarrhoea/Dizziness,3.0,1,59.0
+Fever/Cough/Breathing Difficulty/Drowsiness,3.0,1,59.0
+Fever/breathing difficulty,10.0,1,59.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/seizure,5.666666666666667,3,59.0
+Tiredness/Sore Throat,6.0,1,59.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Liver Disease/Bullous Disorder,2.0,2,59.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Aortic Sclerosis,10.0,1,59.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Myeloid Leukemia,1.0,1,59.0
+Psychiatric Illness,3.0,13,58.92307692307692
+Chronic Kidney Disease/Type 2 Diabetes Mellitus/Systemic Hypertension,8.25,4,58.75
+Bronchial Asthma,5.743589743589744,39,58.64102564102564
+Systemic Hypertension/Hypothyroidism,3.4761904761904763,21,58.61904761904762
+Type 2 Diabetes Mellitus/Systemic Hypertension/Morbid Obesity,4.0,4,58.5
+Chronic Kidney Disease/Hypertension,4.5,2,58.5
+Systemic Hypertension/Type 2 Diabetes Mellitus/Hypothyroidism,7.2,5,58.4
+Fever/Breathlessness/Cough,7.111111111111111,9,58.333333333333336
+Fever/Cough/myalgia,10.0,8,58.25
+Coronary Artery disease/Type 2 Diabetes Mellitus/Systemic Hypertension,14.0,1,58.0
+Cough/Myalgia/Throat Pain,13.0,1,58.0
+Cough/Shortness of Breath,1.0,1,58.0
+Fever/Cough/Breathing Difficulty/Chest Pain,4.0,1,58.0
+Systemic Hypertension/Type 2 Diabetes Mellitus/Interstitial Lung Disease,12.0,1,58.0
+Systemic Hypertension/Coronary Artery Disease/Cancer Cervix,37.0,1,58.0
+Cough/Breathing Difficulty/Fever/Loose stools,5.0,1,58.0
+Diabetes Mellitus/Systemic Hypertension/Dyslipidemia,10.0,1,58.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Cancer,0.0,1,58.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Renal Failure,0.0,1,58.0
+Cough/Drowsiness ,2.0,1,58.0
+Diabetes Mellitus/Old Pulmonary Tuberculosis,0.0,1,58.0
+Acute Kidney Injury/Septic Shock,12.0,1,58.0
+Fever/Sore Throat/Cough/Breathing Difficulty,13.0,1,58.0
+seizure/Morbid Obesity,5.0,1,58.0
+Bronchial Asthma/parkinsonism,4.0,1,58.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/coronary Artery Disease,4.0,1,58.0
+Morbid Obesity/Obstructive Sleep Apnea,11.0,1,58.0
+Cough/Breathlessness,9.136363636363637,22,57.95454545454545
+Chronic Kidney disease,9.333333333333334,3,57.666666666666664
+Diabetes Mellitus/Systemic Hypertension/Hypothyroidism,6.625,8,57.625
+Fever/Cough/Giddiness,8.0,2,57.5
+Systemic Hypertension/Morbid Obesity,3.5,2,57.5
+Fever/Breathlessness,8.4375,16,57.4375
+Fever/Loss of Appetite,2.6666666666666665,3,57.333333333333336
+Fever/Breathing Difficulty/Myalgia,6.769230769230769,13,57.30769230769231
+Type 2 Diabetes Mellitus/Chronic Kidney disease,7.0,4,57.25
+Type 2 Diabetes Mellitus/Acute Coronary Syndrome,2.0,1,57.0
+Carcinoma Tongue/Type 2 Diabetes Mellitus/Systemic Hypertension,1.0,1,57.0
+Cardio Respiratory Arrest/Type 2 Diabetes Mellitus,7.0,1,57.0
+Systemic Hypertension/Type 2 Diabetes Mellitus/Old Cerebrovascular Accident,12.0,2,57.0
+cancer cervix,0.0,1,57.0
+Acute Kidney Injury/Large Mesentic Cyst,3.0,1,57.0
+Systemic Hypertension/Type 2 Diabetes Mellitus/Renal Failure,1.0,1,57.0
+Breathing Difficulty/Body Pain/Loose stools,5.0,1,57.0
+Coronary Artery Disease/Cerebrovascular Accident/Diabetes Mellitus/Systemic Hypertension,0.0,1,57.0
+Systemic hypertension/Type 2 Diabetes Mellitus,2.0,1,57.0
+Systemic Hypertension/Diabetes Mellitus/Hypothyroidism,6.0,1,57.0
+Cough/loss of smell/Myalgia,14.0,1,57.0
+Fever/Cough/Breathing Difficulty/Sore Throat,2.0,1,57.0
+Fever/Breathing Difficulty/General Tiredness,10.0,2,57.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Bronchial Asthma,0.0,1,57.0
+Fever/Dry Cough/Breathing Difficulty,17.0,2,57.0
+Severe Nausea/Vomiting,1.0,1,57.0
+Fever/headache/Cough/altered sensorium ,9.0,1,57.0
+Old Pulmonary Tuberculosis/Chronic Kidney Disease,1.0,1,57.0
+Fever/Myalgia/Cough,8.0,4,57.0
+Diabetes Mellitus/Bronchial Asthma/seizure,5.0,1,57.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Old Cerebrovascular Accident/Hypothyroidism,2.0,1,57.0
+Systemic Hypertension/Chronic Kidney disease,6.4,5,56.8
+Systemic Hypertension/Chronic Kidney Disease,5.542857142857143,35,56.57142857142857
+Fever/Cough/Loose stools,5.538461538461538,13,56.46153846153846
+Abdominal Pain,9.0,5,56.4
+Fever/Cough/Breathing Difficulty/Diarrhoea,5.666666666666667,3,56.333333333333336
+Systemic Hypertension/Diabetes Mellitus/Bronchial Asthma,15.0,3,56.333333333333336
+Asymptomatic,5.00799558864075,3627,56.193548387096776
+Type 2 Diabetes Mellitus/Hypothyroidism,6.45,20,56.1
+Chronic Kidney Disease/Systemic Hypertension,6.277777777777778,18,56.05555555555556
+Acute Myeloid Leukemia,8.0,1,56.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Old Cerebrovascular Accident/Coronary Artery Disease,5.0,1,56.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Lupus Nephritis,22.0,1,56.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Right Hemiplegia,42.0,1,56.0
+Cough/Breathing Difficulty/Vomiting,7.0,2,56.0
+Diabetes Mellitus/Systemic Hypertension/morbid Obesity/Coronary Artery Disease,4.0,1,56.0
+Systemic Hypertension/Diabetes Mellitus/Hypothyroidism/Dyslipidemia,1.0,1,56.0
+Fever/tiredness/loss of appetite,3.0,1,56.0
+newly detected diabetes/Systemic Hypertension,3.0,1,56.0
+Fever/Cough/Breathing Difficulty/Loss of taste/Fatigue,4.0,1,56.0
+Loss of appetite/Abdominal Pain,13.0,1,56.0
+Fatigue/Epigastric Pain,25.0,1,56.0
+Decompensated Chronic Liver Disease/Hypertension/Coronary Artery Disease,3.0,1,56.0
+Cough/tiredness/Breathing Difficulty/loose stools,7.0,1,56.0
+Fever/Tiredness/Loss of appetite/loss of Smell,3.0,1,56.0
+Cough/Altered Sensorium ,6.0,1,56.0
+Congestive Cardiac Failure,1.0,1,56.0
+expectoration,4.0,1,56.0
+Cough/headache/myalgia,16.0,1,56.0
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Old Tuberculosis Meningitis,3.0,1,56.0
+Carcinoma Cervix,2.0,1,56.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Cancer Bladder,0.0,1,56.0
+Body Pain/Cough,2.0,1,56.0
+Fever/Myalgia/Breathing Difficulty,10.833333333333334,6,55.833333333333336
+Fever/body Pain,3.6666666666666665,3,55.666666666666664
+Fever/Cough/Cold/Breathing Difficulty,6.416666666666667,12,55.583333333333336
+Cough/Cold/Breathing Difficulty,3.3333333333333335,6,55.5
+Fever/Cough/Shortness of breath ,11.5,2,55.5
+Type 2 Diabetes Mellitus/Psychiatric Illness,4.5,4,55.5
+Type 2 Diabetes Mellitus/Bronchial Asthma,6.166666666666667,12,55.5
+Cerebrovascular Accident,4.2,5,55.4
+breathlessness,3.875,8,55.25
+Fever/Cough/Running Nose,4.0,1,55.0
+Breathing Difficulty/Mild Cough,10.0,1,55.0
+Breathing Difficulty/Side facial Swelling,8.0,1,55.0
+Systemic Hypertension/Type 2 Diabetes Mellitus/Coronary Artery Disease/Diabetic Foot,3.0,1,55.0
+Systemic Hypertension/Paraxysmal Supraventricular Tachycardia,11.0,1,55.0
+Arthritis,4.0,1,55.0
+Fever/Cough/myalgia/fatigue/breathlessness ,40.0,1,55.0
+Fever/Cold/Cough/Nausea,4.0,1,55.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/HBSAG Positive,0.0,1,55.0
+seizure/Type 2 Diabetes Mellitus/Hypothyroidism,5.0,1,55.0
+Loss of Appetite/Loss of Smell,34.0,1,55.0
+Cancer Cervix ( Sqnamom Cell Carcinoma ),5.0,1,55.0
+Coronary Artery disease/Diabetes Mellitus,0.0,1,55.0
+Diabetes Mellitus/Hypertension/Acute Kidney Injury,3.0,1,55.0
+Diabetes Mellitus/Myocardial infarction,8.0,2,55.0
+Diabetes Mellitus/Acute Cerebrovascular Accident,4.0,1,55.0
+Obesity/Systemic Hypertension,4.0,1,55.0
+Obesity/Diabetes Mellitus,10.0,1,55.0
+Psychosis/Old Pulmonary Tuberculosis,5.0,1,55.0
+Diabetes Mellitus/Systemic Hypertension/Tuberculosis/Bronchial Asthma,9.0,1,55.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Cardiac Failure/Left Diabetic Foot Ulcer,1.0,1,55.0
+Diffused Large B Cell Lymphoma,14.0,1,55.0
+Diabetes Mellitus/Hypothyroidism/Bipolar Disorder,9.0,1,55.0
+Systemic Hypertension/Cancer Lung,2.0,1,55.0
+Type 2 Diabetes Mellitus/Diabetic Keto Acidosis,3.5,4,54.75
+Acute Kidney Injury/Type 2 Diabetes Mellitus,2.0,1,54.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Acute Kidney injury,0.0,1,54.0
+Pulmonary metastasis,4.0,1,54.0
+Fever/Sore throat/Cough/Shortness of Breath,10.0,1,54.0
+Fever/Throat Pain,6.0,1,54.0
+Type 2 Diabetes Mellitus/Chronic obstructive pulmonary disease,5.0,1,54.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Chronic Kidney Disease/Diabetic Neuropathy,2.0,1,54.0
+Heart disease,5.5,2,54.0
+Right Hemiplegia,2.0,1,54.0
+Fever/severe Cough/myalgia,6.0,1,54.0
+Cough/Tiredness/Body Pain,3.0,1,54.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Supraventricular Tachycardia,5.0,1,54.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Obstructive Sleep Apnea,59.0,1,54.0
+Fever/Cough/body Pain,10.333333333333334,3,54.0
+Diabetes mellitus/Hypertension/Cerebrovascular Accident,4.0,1,54.0
+Bronchial Asthma/Type 2 Diabetes Mellitus/Hypothyroidism,3.0,1,54.0
+Hypothyroidism/Lupus Nephritis/Systemic Hypertension,1.0,1,54.0
+Fever/Breathing Difficulty/Dry Cough/Tiredness,1.0,1,54.0
+Fever/Breathlessness/Myalgia/sore throat,13.0,1,54.0
+Type 2 Diabetes Mellitus/Hypertension/Mucormycosis,0.0,1,54.0
+Loose stools/Vomiting,17.0,2,54.0
+Type 2 Diabetes Mellitus/Hypertension/Coronary Artery Disease/old Cerebrovascular Accident,3.0,1,54.0
+Cough/breathlessness ,7.5,4,53.5
+unconsciousness,8.5,2,53.5
+Fever/headache/myalgia,9.0,2,53.5
+Type 2 Diabetes Mellitus/Systemic Hypertension/Hepatitis B,1.0,1,53.0
+Acute Right Lower Limb Ischemia/Femoropopliteal Occlusion,9.0,1,53.0
+Sputum,21.0,1,53.0
+Type 2 Diabetes Mellitus/Bronchiectasis/Chronic obstructive Pulmonary Disease,0.0,1,53.0
+Diabetes Mellitus/Rheumatic Heart Disease/Mitral Stenosis,7.0,1,53.0
+Fever/general Body Pain,11.0,1,53.0
+Cancer Breast on Chemotherapy,1.0,1,53.0
+Systemic Hypertension/Rheumatoid Pnemothorax,3.0,1,53.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/psychiatric illness,6.5,2,53.0
+Metastasis,1.0,1,53.0
+Cough/body Pain,2.5,2,53.0
+Post Spinal Cord Injury,5.0,1,53.0
+Rheumatic Heart Disease/Diabetes Mellitus,1.0,1,53.0
+Headache/Loss of taste/Cough/Cold,5.0,1,53.0
+Type 2 Diabetes Mellitus/Post Cerebrovascular Accident,2.0,1,53.0
+Fever/Breathing Difficulty/Cough/Loose stools,18.0,1,53.0
+Fever/Cough/Vomiting/Respiration distress,4.0,1,53.0
+Fever/Body Pain/Loose stools,9.0,1,53.0
+Fever/Cough/Body Pain/Headache,11.0,1,53.0
+Multiple Sclerosis,3.0,1,53.0
+Diabetes Mellitus/Chronic Kidney Disease/Coronary Artery Disease,7.5,2,53.0
+seizure,3.2777777777777777,18,52.833333333333336
+Fever/Myalgia/Cough/Breathing Difficulty,5.833333333333333,6,52.833333333333336
+ Fever/Cough,4.0,2,52.5
+Pulmonary Tuberculosis,2.75,4,52.5
+Fever/Cough/Breathing Difficulty/loose stools,0.5,2,52.5
+Type 2 Diabetes Mellitus/Acute Kidney Injury,9.666666666666666,3,52.333333333333336
+Breathing Difficulty/Fever/Cough,2.6666666666666665,3,52.333333333333336
+Fever/Cough/Breathing Difficulty/General Tiredness,19.0,1,52.0
+Cough/Cold/Fever/Breathlessness,2.0,1,52.0
+Cough/Breathing Difficulty/Headache/Abdominal discomfort,19.0,1,52.0
+Diabetes Mellitus/Hypertension/Tuberculosis Meningitis,1.0,1,52.0
+Coronary Artery disease/Acute Kidney Injury/Type 2 Diabetes Mellitus,14.0,1,52.0
+Psoriasis,11.0,1,52.0
+Loss of Appetite ,6.0,1,52.0
+Secondary Bronchial Asthmacterial Infection/Acute Respiratory distress Syndrome/Respiratory Failure/Septic Shock.,1.0,1,52.0
+Sore Throat ,21.0,1,52.0
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/coronary Artery Disease,12.0,1,52.0
+Breathlessness/Fever/Myalgia,4.0,1,52.0
+Steven Johnson Syndrome,4.0,1,52.0
+Diabetes Mellitus/Bronchial Asthma/Epilepsy,20.0,1,52.0
+Fever/loss of appetite/tiredness,6.0,1,52.0
+Fever/Sore Throat/Cough,4.0,1,52.0
+Fever/vomiting ,3.0,1,52.0
+Headache/Breathing Difficulty,5.0,1,52.0
+Breathing Difficulty/Body Pain/Vomiting,0.0,1,52.0
+Fever/Cough/Dysponea,9.4,5,51.6
+Hypothyroidism/Type 2 Diabetes Mellitus/Systemic Hypertension,1.5,2,51.5
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney disease,5.666666666666667,6,51.5
+Retrovirus positive,1.0,1,51.0
+Myalgia/dry Cough/breathlessness,8.0,1,51.0
+Acute Cerebrovascular Accident/Massive infarction,0.0,1,51.0
+Post coronary artery bypass grafting,0.0,1,51.0
+Chronic Liver Disease/Post Liver Transplantation,0.0,1,51.0
+Hypertension/Type 2 Diabetes Mellitus/Hypothyroidism/Obesity,2.0,1,51.0
+Rheumatic Heart Disease,7.25,4,51.0
+Chronic Kidney Disease/Diabetes Mellitus/Rheumatoid Arthritis,10.0,1,51.0
+Type 2 Diabetes Mellitus/Morbid Obesity/Hypothyroidism,4.0,1,51.0
+Cerebrovascular Accident/Chronic Kidney Disease,4.5,2,51.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Disseminated Tuberculosis/Bronchial Asthma,2.0,1,51.0
+Cough/Fever/Breathing Difficulty ,6.5,2,50.5
+Fever/Breathing Difficulty/myalgia,6.0,1,50.0
+Fever/loose stools/throat Pain/Cough,18.0,1,50.0
+Hypothyroidism/Rheumatoid Arthritis,8.0,1,50.0
+Fever/Breathing Difficulty/Diarrhoea,4.0,1,50.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Pulmonary Tuberculosis,19.0,1,50.0
+Fever/Cough/Breathing Difficulty/Cold,7.5,2,50.0
+Fever/Cough/breathlessness/Vomiting/loose stools,7.0,1,50.0
+Diabetes Mellitus/Rheumatoid Arthritis,4.0,1,50.0
+Fever/Breathing Difficulty/Loss of appetite/Myalgia,4.0,1,50.0
+Eye Irritation/Bronchial Asthma/Fever/Sore throat,5.0,1,50.0
+Fever/Breathing Difficulty/Sore throat/Headache,19.0,1,50.0
+Cough/myalgia/Breathing Difficulty,9.0,1,50.0
+Fever/Vomiting/Loss of appetite,7.0,1,50.0
+Breathing Difficulty/chest Pain,1.0,1,50.0
+chest Pain,9.0,1,50.0
+Systemic Hypertension/Type 2 Diabetes Mellitus/Bronchial Asthma,17.0,1,50.0
+Thyroid Disorder,9.0,1,50.0
+Cough/Headache/Myalgia,16.0,1,50.0
+Acute Kidney Injury/Hypothyroidism,15.0,1,50.0
+Bronchial Asthma/Type 2 Diabetes Mellitus/seizure,2.0,1,50.0
+Cancer Breast,2.0,1,50.0
+Type 2 Diabetes mellitus/Systemic Hypertension/Hypothyroidism,5.0,1,50.0
+expectoration/Breathing Difficulty,12.0,2,49.5
+Breathing Difficulty/Chest Pain,6.5,2,49.0
+loss of smell/loss of taste/Diarrhoea,12.0,1,49.0
+Fever/Cough/Breathing Difficulty/Headache,8.0,1,49.0
+Fever/Cough/Loss of Appetite,4.0,2,49.0
+Giddiness/Fatigue,2.0,1,49.0
+Diabetes Mellitus/Systemic Hypertension/Psoriasis,12.0,1,49.0
+Cough/Loose stools/Loss of Appetite,6.0,1,49.0
+Type 2 Diabetes Mellitus/Coronary Artery disease,9.0,2,49.0
+Thyroidectomy,0.0,1,49.0
+Fever/Cough/Exreme Body Pain,5.0,1,48.0
+Fever/Cough/Vomiting/Headache/Myalgia,6.0,1,48.0
+Type 2 Diabetes Mellitus/Carcinoma Stomach,3.0,1,48.0
+Fever/Cough/Cold/loss of appetite,7.0,1,48.0
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Cerebrovascular Accident/Systemic Hypertension,17.0,1,48.0
+Fever/Cough/Loose stools/Breathing Difficulty,3.0,1,48.0
+Fever/breathlessness/Cough/Cold,5.0,1,48.0
+Hypertension/seizure,1.0,1,48.0
+Vomiting/Unconsciousness,24.0,1,48.0
+Diabetes Mellitus/Bronchial Asthma/Coronary Artery Disease,6.0,1,48.0
+Cough/Body Pain/Breathing Difficulty,12.0,1,48.0
+Type 2 Diabetes Mellitus/invasive fungal sinusitis,4.0,1,48.0
+Dilated Cardiomyopathy,4.0,1,48.0
+Systemic Hypertension/Coronary Artery Disease/Old Pulmonary Tuberculosis,11.0,1,48.0
+cerebrovascular accident/Hypertension,18.0,1,48.0
+Systemic Hypertension/CRD/Type 2 Diabetes Mellitus,1.0,1,48.0
+Fever/Cold/Myalgia/Breathing Difficulty,2.0,1,48.0
+Diabetes Mellitus/Hypothyroidism,6.142857142857143,7,47.714285714285715
+Type 2 Diabetes Mellitus/Pulmonary Tuberculosis,1.0,3,47.666666666666664
+Fever/Vomiting,12.0,6,47.666666666666664
+Type 2 Diabetes mellitus,8.25,8,47.375
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Lung Absess,8.0,1,47.0
+Chronic Kidney Disease/Polio/Pulmonary Hypertension,0.0,1,47.0
+loose stools/loss of appetite/Fever,5.0,1,47.0
+Depression,0.0,1,47.0
+Fever/Severe Cough/Breathing Difficulty,3.0,1,47.0
+Diabetes Mellitus/Hypertension/Chronic Obstructive Pulmonary Disease,14.0,1,47.0
+shortness of breath/Myalgia,3.0,1,47.0
+Fever/Throat Pain/Cough,9.0,1,47.0
+Diarrhoea/loss of smell,3.0,1,47.0
+Fever/Cough/Cold/breathlessness ,11.0,1,47.0
+Fever/breathlessness/myalgia,5.0,1,47.0
+Bronchial Asthma/Systemic Hypertension,9.25,4,46.5
+Dysponea/Loss of Appetite,0.0,1,46.0
+Fever/Cough/diarrhoea,8.5,2,46.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Bicytopenia,2.0,1,46.0
+Type 2 Diabetes Mellitus/Carcinoma Breast,0.0,1,46.0
+Fever/Breathing Difficulty/Myalgia/Loss of Appetite,3.0,1,46.0
+Type 2 Diabetes Mellitus/Chronic Alcoholic Liver Disease/Metabolic Encephalopathy,1.0,1,46.0
+Headache,11.0,2,46.0
+Papillary CA Thyroid/Type 2 Diabetes Mellitus,5.0,1,46.0
+Type 2 Diabetes Mellitus/Old Cerebrovascular Accident/Obesity,0.0,1,46.0
+Rheumatic Heart Disease/Mitral Valve Prolapse,0.0,1,46.0
+Type 2 Diabetes mellitus/Systemic Hypertension/Acute Cerebrovascular Accident,1.0,1,46.0
+Hypothyroidism,5.666666666666667,48,45.75
+Obesity,4.181818181818182,11,45.45454545454545
+HIV/AIDS,9.2,10,45.3
+Morbid Obesity,2.3636363636363638,11,45.09090909090909
+Diabetes Mellitus/Systemic Hypertension/Bronchial Asthma/seizure/Chronic Kidney Disease,3.0,1,45.0
+Fever/Body Pain/Cough/Breathing Difficulty,4.0,1,45.0
+Loss of Appetite/Nausea,1.0,1,45.0
+Diabetes Mellitus/Systemic Hypertension/Diabetic Nephropathy,14.0,1,45.0
+Fever/breathlessness/diarrhoea,1.0,1,45.0
+Diabetes Mellitus/Bronchial Asthma,16.0,1,45.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Septic Sigmoid Diverclitis/Hollow Viscus Perforation,2.0,1,45.0
+Hypertension/Epilepsy/Old Cerebrovascular Accident,0.0,1,45.0
+Coronary Artery disease,15.0,1,45.0
+Uncontrolled Diabetes Mellitus,6.0,1,45.0
+Carcinoma Maxilla,3.0,1,45.0
+chest Pain/Myalgia,6.0,1,45.0
+Body Pain/Cold,21.0,1,45.0
+Cough/Cold/Breathing Difficulty/Loose stools ,4.0,1,45.0
+Type 2 Diabetes Mellitus/Breast Cancer,3.0,1,45.0
+Fever/Cough/Sore throat,7.0,2,45.0
+Fever/Cough/shortness of Breath,4.0,1,45.0
+Fever/Headache/Loose stools,15.0,1,45.0
+Fever/myalgia/Cough,12.5,2,45.0
+Chronic Kidney Disease/Systemic Hypertension/Type 2 Diabetes Mellitus,2.0,2,44.5
+Chronic Myeloid Leukemia,6.0,3,44.333333333333336
+Diabetes Mellitus/Morbid Obesity,4.0,1,44.0
+Left Sided Weakness,7.0,1,44.0
+Systemic Hypertension/Anemia,2.0,1,44.0
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Acute Cerebrovascular Accident,2.0,1,44.0
+Acute Respiratory distress Syndrome/COVID Pneumonia/Respiratory Failure,7.0,3,44.0
+Fever/Cough/sore throat,14.0,1,44.0
+Bronchial asthma,3.0,2,44.0
+Fever/Breathing Difficulty/Tiredness/Headache,8.0,1,44.0
+Type 2 Diabetes Mellitus/Morbid Obesity,11.142857142857142,7,43.57142857142857
+Type 2 Diabetes Mellitus/Systemic Hypertension/Asthma,1.0,1,43.0
+Decompensated Liver Disease/Severe Anemia,4.0,1,43.0
+Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Renal Failure,1.0,1,43.0
+Type 2 Diabetes Mellitus/Coronary Kidney Disease,3.0,1,43.0
+Systemic Hypertension/Chronic Kidney Disease/Old Cerebrovascular Accident,9.0,1,43.0
+Autoimmune Hemolytic Anemia/Type 2 Diabetes Mellitus,11.0,1,43.0
+Systemic Hypertension/Type 2 Diabetes Mellitus/Post Renal Transplant,0.0,1,43.0
+Breathing Difficulty/Fever/Body Pain,3.0,1,43.0
+Fever/Breathing Difficulty/Cough ,2.0,1,43.0
+Cough/Cold,4.0,2,42.5
+Decompensated Chronic Liver Disease,0.5,2,42.5
+Rheumatoid Arthritis on Methotrexate,2.0,1,42.0
+Type 2 Diabetes mellitus/Systemic Hypertension/Chronic Kidney Disease,2.0,1,42.0
+Non Hodgkins lymphoma,4.0,1,42.0
+Cough/Myalgia/Headache,6.0,1,42.0
+Seasonal Asthma,9.0,1,42.0
+Coronary Artery Disease/Traumatic Paraplegia,27.0,1,42.0
+Chronic Obstructive Pulmonary disease,8.0,1,42.0
+Fever/Cough/Myalgia/dysgensia,6.0,1,42.0
+Fever/Cough/Breathlessness/Headache,8.0,1,42.0
+Type 2 Diabetes Mellitus/Bipolar Disorder/Hypothyroidism,2.0,1,42.0
+Fever/breathlessness/myalgia/loss of appetite,5.0,1,42.0
+Body Pain/Headache,13.0,1,42.0
+Systemic Hypertension/Chronic Kidney Disease/Hypothyroidism,0.0,1,41.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Hypothyroidism/Obesity,39.0,1,41.0
+Type 2 Diabetes Mellitus/Hyperthyroidism,2.0,2,41.0
+Fever/Cough/breathlessness/loose stools,11.0,2,41.0
+Type 2 Diabetes Mellitus/Systemic Hypertension/Tuberculosis,14.0,1,41.0
+Chronic Kidney Disease/Coronary Artery Disease/Type 2 Diabetes Mellitus/Systemic Hypertension,5.0,1,41.0
+Left Ventricular Hypertrophy,3.0,1,40.0
+Abductor Vocal Cord Palsy,1.0,1,40.0
+Cough/Cold/Breathing Difficulty ,0.0,1,40.0
+Diabetes Mellitus/Pulmonary Tuberculosis,1.0,1,40.0
+Newly Detected Diabetes,4.0,1,40.0
+Type 2 Diabetes Mellitus/Carinomia Lip Of Verrucous Type,9.0,1,40.0
+Systemic Hypertension/BPH,6.0,1,40.0
+Breathlessness/Fever/Cough,9.0,1,40.0
+Body Pain/Fever/Severe Cough,8.0,1,39.0
+Fever/Myalgia/General Tiredness,7.0,1,39.0
+Bronchopneumonia/AIK Leak,0.0,1,39.0
+Fever/Cough/Expectoration,14.0,1,39.0
+Systemic Hypertension/Chronic Kidney Disease/seizure,2.0,1,39.0
+newly detected diabetes,2.0,2,38.5
+Type 2 Diabetes Mellitus/Acute Cerebrovascular Accident/Left Fungal Sinusitis,1.0,1,38.0
+Old Pulmonary Tuberculosis/Systemic Hypertension/Type 2 Diabetes Mellitus,1.0,1,38.0
+seizure/Down Syndrome,2.0,1,38.0
+Dissection.,20.0,1,38.0
+Systemic lupus erythematosus/Lupus Nephritis,5.0,1,38.0
+Sore Throat/Body Pain,6.0,1,38.0
+Fever/unconsciousness/Cough/Breathing Difficulty,4.0,1,38.0
+Pulmonary Tuberculosis/Morbid Obesity,2.0,1,37.0
+Type 2 Diabetes Mellitus/Diabetes Mellitus,0.0,1,37.0
+Fever/Cold/Cough/Breathing Difficulty ,22.0,1,37.0
+Cough/Shortness of breath,1.0,1,36.0
+Diabetes Mellitus/Systemic Hypertension/Post renal Transplant/Hypothyroidism,3.0,1,36.0
+Type 2 Diabetes Mellitus/Pancreatitis,7.0,1,36.0
+seizure/Intellectual Disability,4.0,1,36.0
+Schizophrenia,0.0,1,35.0
+Residual Polio,5.0,1,35.0
+Osteosarcoma,5.0,1,35.0
+New onset seizure,4.0,1,35.0
+Fever/Cough/body Pain/sore throat,20.0,1,35.0
+Juvenile Diabetes Mellitus/Chronic Kidney Disease/Congenital Blindness,0.0,1,34.0
+Antenatal mother/Placenta previa,11.0,1,34.0
+Carcinoma Breast/Hypertension,7.0,1,34.0
+Ulcerative Colitis,0.0,1,33.0
+Post LSCS POD:2,2.0,1,33.0
+Fever/Cough/headache/diarrhoea/breathlessness,4.0,1,33.0
+Bronchial Asthma/Acute Kidney Injury,3.0,1,33.0
+Systemic Lupus Erythematosus/Chronic Kidney Disease,10.0,1,32.0
+HIV/AIDS/Peri Ampullary Carcinoma,0.0,1,32.0
+general Pain,8.0,1,32.0
+IVF/DCDA twin gestation,2.0,1,32.0
+Fever/Seizure,1.0,1,31.0
+Hypothyroidism/Morbid Obesity,3.0,1,31.0
+Down Syndrome,2.0,1,31.0
+Breathing Difficulty/Loss of smell,3.0,1,31.0
+Pulmonary Tuberculosis/Immunodeficiency,8.0,1,31.0
+Breathlessness/Fever/Breathing Difficulty,2.0,1,31.0
+Hepatitis/Bronchopneumonia,10.0,1,30.0
+seizure/Mental Retardation/Ventricular Septal Defect,3.0,1,30.0
+Acute Kidney Injury/Systemic Hypertension/Type 2 Diabetes Mellitus,9.0,1,30.0
+Fever/Vomiting/Breathing Difficulty/Chest Pain/Loose stools,3.0,1,30.0
+Fever/Cough/Breathing Difficulty/headache,7.0,1,30.0
+Fever/Cough/Sore throat/Myalgia/Anosmia/Dysgensia,4.0,1,30.0
+Cerebellar Astrocytoma/Right Pneumothorax,15.0,1,29.0
+ANC/Antepartum Eclampsia,6.5,2,29.0
+Abdominal Pain ,9.0,1,29.0
+Morbid obesity,1.0,1,29.0
+Bronchial Asthma/ANC,2.0,1,29.0
+seizure/Pulmonary Tuberculosis,6.0,1,29.0
+Intellectual Disability,0.5,2,28.5
+Fever/Cough/Myalgia/Breathing Difficulty ,1.0,1,28.0
+Hypothyroidism/Diabetes Mellitus,2.0,1,27.0
+Type1 Diabetes Mellitus,1.0,1,27.0
+Gestational Diabetes Mellitus/Morbid Obesity,3.0,1,26.0
+Chronic Hypertension,2.0,1,26.0
+Systemic Hypertension/Hypothyroidism/Type 2 Diabetes Mellitus,2.0,1,26.0
+Cough/Fever/abdominal Pain,24.0,1,25.0
+Bronchial Asthma/Depression,3.0,1,25.0
+Anemia/Morbid Obesity/Autism,3.0,1,25.0
+Takayasu'arthritis,1.0,1,25.0
+Down Syndrome/Type 2 Diabetes Mellitus,4.0,1,25.0
+Gestational Hypertension,13.0,1,24.0
+Mitochondrial Cytopathy/Cerebellar Ataxia/seizure,9.0,1,23.0
+Obesity/Hypothyroidism,2.0,1,23.0
+Fever/Cough/Breathing Difficulty/Right facial Pain,3.0,1,22.0
+loose stools,5.0,1,22.0
+Mental Retardation,5.0,1,21.0
+Post Natal Mother,4.0,1,21.0
+Cough/Breathing Difficulty/Bilateral Lower Limb Swelling,13.0,1,21.0
+Left side cavernous sinus tumor,0.0,1,19.0
+seizure/Cerebral palsy,2.0,1,18.0
+Leukemia,1.0,1,5.0
+Pneumonia,1.0,1,1.0

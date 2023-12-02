@@ -1,0 +1,638 @@
+Symptoms,0
+ Fever/Cough,2
+ANC/Antepartum Eclampsia,1
+Abdominal Pain,3
+Abductor Vocal Cord Palsy,1
+Acute Cerebrovascular Accident,1
+Acute Cerebrovascular Accident/Massive infarction,1
+Acute Kidney Injury,1
+Acute Kidney Injury/Hypothyroidism,1
+Acute Kidney Injury/Large Mesentic Cyst,1
+Acute Kidney Injury/Septic Shock,1
+Acute Kidney Injury/Type 2 Diabetes Mellitus,1
+Acute Myeloid Leukemia,1
+Acute Respiratory distress Syndrome/COVID Pneumonia/Respiratory Failure,1
+Acute Right Lower Limb Ischemia/Femoropopliteal Occlusion,1
+Altered Sensorium,2
+Anemia,5
+Antenatal mother/Placenta previa,1
+Arthritis,1
+Asymptomatic,2055
+Autoimmune Hemolytic Anemia/Type 2 Diabetes Mellitus,1
+Body Pain,1
+Body Pain/Cold,1
+Body Pain/Cough,1
+Body Pain/Fever/Severe Cough,1
+Body Pain/Headache,1
+Breathing Difficulty,224
+Breathing Difficulty ,28
+Breathing Difficulty/Body Pain,2
+Breathing Difficulty/Body Pain/Loose stools,1
+Breathing Difficulty/Body Pain/Vomiting,1
+Breathing Difficulty/Chest Pain,2
+Breathing Difficulty/Cough,5
+Breathing Difficulty/Fever,2
+Breathing Difficulty/Fever/Body Pain,1
+Breathing Difficulty/Fever/Cough,2
+Breathing Difficulty/Loss of smell,1
+Breathing Difficulty/Mild Cough,1
+Breathing Difficulty/Myalgia,3
+Breathing Difficulty/Side facial Swelling,1
+Breathing Difficulty/chest Pain,1
+Breathlessness,13
+Breathlessness ,1
+Breathlessness/Cough,2
+Breathlessness/Fever/Breathing Difficulty,1
+Breathlessness/Fever/Cough,1
+Breathlessness/Fever/Myalgia,1
+Bronchial Asthma,19
+Bronchial Asthma/Acute Kidney Injury,1
+Bronchial Asthma/Systemic Hypertension,3
+Bronchial Asthma/Type 2 Diabetes Mellitus,2
+Bronchial Asthma/Type 2 Diabetes Mellitus/Hypothyroidism,1
+Bronchial Asthma/Type 2 Diabetes Mellitus/seizure,1
+Bronchial Asthma/parkinsonism,1
+Bronchial asthma,2
+Bronchopneumonia/AIK Leak,1
+Cancer Breast,1
+Cancer Breast on Chemotherapy,1
+Cancer Cervix ( Sqnamom Cell Carcinoma ),1
+Carcinoma Breast/Hypertension,1
+Carcinoma Cervix,1
+Carcinoma Maxilla,1
+Carcinoma Tongue/Type 2 Diabetes Mellitus/Systemic Hypertension,1
+Cardio Respiratory Arrest/Type 2 Diabetes Mellitus,1
+Cerebrovascular Accident,5
+Cerebrovascular Accident/Chronic Kidney Disease,2
+Cerebrovascular Accident/Ischemic Stroke,1
+Cerebrovascular Accident/Systemic Hypertension,2
+Chest Pain,1
+Chronic Kidney Disease,28
+Chronic Kidney Disease/Coronary Artery Disease,1
+Chronic Kidney Disease/Coronary Artery Disease/Type 2 Diabetes Mellitus/Systemic Hypertension,1
+Chronic Kidney Disease/Diabetes Mellitus,4
+Chronic Kidney Disease/Diabetes Mellitus/Rheumatoid Arthritis,1
+Chronic Kidney Disease/Diabetes Mellitus/Systemic Hypertension,1
+Chronic Kidney Disease/Diabetes mellitus,1
+Chronic Kidney Disease/Hypertension,1
+Chronic Kidney Disease/Polio/Pulmonary Hypertension,1
+Chronic Kidney Disease/Systemic Hypertension,9
+Chronic Kidney Disease/Systemic Hypertension/Heart Disease,1
+Chronic Kidney Disease/Systemic Hypertension/Type 2 Diabetes Mellitus,2
+Chronic Kidney Disease/Systemic Hypertension/Type 2 Diabetes Mellitus/Hypothyroidism,1
+Chronic Kidney Disease/Type 2 Diabetes Mellitus,2
+Chronic Kidney Disease/Type 2 Diabetes Mellitus/Systemic Hypertension,3
+Chronic Kidney disease,3
+Chronic Kidney disease/Decompensated Chronic Liver Disease,1
+Chronic Liver Disease/Post Liver Transplantation,1
+Chronic Myeloid Leukemia,3
+Chronic Obstructive Pulmonary Disease,4
+Chronic Obstructive Pulmonary disease,1
+Congestive Cardiac Failure,1
+Coronary Artery Disease,33
+Coronary Artery Disease/Acute Coronary Syndrome/Type 2 Diabetes Mellitus,1
+Coronary Artery Disease/Cerebrovascular Accident/Diabetes Mellitus/Systemic Hypertension,1
+Coronary Artery Disease/Diabetes Mellitus,3
+Coronary Artery Disease/Diabetes Mellitus/Hypothyroidism,1
+Coronary Artery Disease/Diabetes Mellitus/Systemic Hypertension,1
+Coronary Artery Disease/Hypertension,1
+Coronary Artery Disease/Multiple Myeloma/Pericardial Effusion/Restrictive Cardiomyopathy/Sick Sinusyndrome,1
+Coronary Artery Disease/Systemic Hypertension,4
+Coronary Artery Disease/Systemic Hypertension/Diabetes Mellitus,1
+Coronary Artery Disease/Traumatic Paraplegia,1
+Coronary Artery Disease/Type 2 Diabetes Mellitus,8
+Coronary Artery Disease/Type 2 Diabetes Mellitus/Systemic Hypertension,1
+Coronary Artery disease,1
+Coronary Artery disease/Acute Kidney Injury/Type 2 Diabetes Mellitus,1
+Coronary Artery disease/Chronic Kidney Disease/Systemic Hypertension,1
+Coronary Artery disease/Diabetes Mellitus,1
+Coronary Artery disease/Type 2 Diabetes Mellitus/Systemic Hypertension,1
+Cough,92
+Cough ,7
+Cough/Altered Sensorium ,1
+Cough/Body Pain/Breathing Difficulty,1
+Cough/Breathing Difficulty,288
+Cough/Breathing Difficulty ,29
+Cough/Breathing Difficulty/Fever/Loose stools,1
+Cough/Breathing Difficulty/Headache/Abdominal discomfort,1
+Cough/Breathing Difficulty/Loose stools ,1
+Cough/Breathing Difficulty/Myalgia,1
+Cough/Breathing Difficulty/Vomiting,2
+Cough/Breathing Difficulty/general tiredness,1
+Cough/Breathlessness,9
+Cough/Breathlessness ,3
+Cough/Breathlessness/Fever,1
+Cough/Cold,2
+Cough/Cold/Breathing Difficulty,4
+Cough/Cold/Breathing Difficulty ,1
+Cough/Cold/Breathing Difficulty/Loose stools ,1
+Cough/Cold/Fever/Breathlessness,1
+Cough/Drowsiness ,1
+Cough/Fever,3
+Cough/Fever/Breathing Difficulty,4
+Cough/Fever/Breathlessness,1
+Cough/Fever/breathlessness,1
+Cough/Headache,1
+Cough/Headache/Myalgia,1
+Cough/Loose stools/Loss of Appetite,1
+Cough/Myalgia,8
+Cough/Myalgia/Headache,1
+Cough/Myalgia/Throat Pain,1
+Cough/Shortness of Breath,1
+Cough/Shortness of breath,1
+Cough/Sore throat,2
+Cough/Tiredness/Body Pain,1
+Cough/body Pain,1
+Cough/breathlessness,9
+Cough/breathlessness ,3
+Cough/fever/Breathing Difficulty,1
+Cough/general Tiredness,1
+Cough/headache/body Pain/loose stools,1
+Cough/headache/myalgia,1
+Cough/loss of smell/Myalgia,1
+Cough/myalgia,2
+Cough/myalgia/Breathing Difficulty,1
+Cough/tiredness,1
+Cough/tiredness/Breathing Difficulty/loose stools,1
+Decompensated Chronic Liver Disease,2
+Decompensated Chronic Liver Disease/Hypertension/Coronary Artery Disease,1
+Decompensated Liver Disease/Severe Anemia,1
+Depression,1
+Diabetes,1
+Diabetes Mellitus,192
+Diabetes Mellitus/Acute Cerebrovascular Accident,1
+Diabetes Mellitus/Acute Kidney Injury,1
+Diabetes Mellitus/Bronchial Asthma,1
+Diabetes Mellitus/Bronchial Asthma/Coronary Artery Disease,1
+Diabetes Mellitus/Bronchial Asthma/Epilepsy,1
+Diabetes Mellitus/Bronchial Asthma/seizure,1
+Diabetes Mellitus/Chronic Kidney Disease,4
+Diabetes Mellitus/Chronic Kidney Disease/Coronary Artery Disease,1
+Diabetes Mellitus/Coronary Artery Disease,7
+Diabetes Mellitus/Hypertension,37
+Diabetes Mellitus/Hypertension/Acute Kidney Injury,1
+Diabetes Mellitus/Hypertension/Chronic Kidney Disease,2
+Diabetes Mellitus/Hypertension/Chronic Obstructive Pulmonary Disease,1
+Diabetes Mellitus/Hypertension/Coronary Artery Disease,1
+Diabetes Mellitus/Hypertension/Tuberculosis Meningitis,1
+Diabetes Mellitus/Hypothyroidism,6
+Diabetes Mellitus/Hypothyroidism/Bipolar Disorder,1
+Diabetes Mellitus/Morbid Obesity,1
+Diabetes Mellitus/Myocardial infarction,1
+Diabetes Mellitus/Old Pulmonary Tuberculosis,1
+Diabetes Mellitus/Pulmonary Tuberculosis,1
+Diabetes Mellitus/Rheumatic Heart Disease/Mitral Stenosis,1
+Diabetes Mellitus/Rheumatoid Arthritis,1
+Diabetes Mellitus/Systemic Hypertension,68
+Diabetes Mellitus/Systemic Hypertension/Bronchial Asthma/seizure/Chronic Kidney Disease,1
+Diabetes Mellitus/Systemic Hypertension/Cerebrovascular Accident,1
+Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease,5
+Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease,7
+Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Chronic Kidney Disease,1
+Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Renal Failure,1
+Diabetes Mellitus/Systemic Hypertension/Diabetic Nephropathy,1
+Diabetes Mellitus/Systemic Hypertension/Dyslipidemia,1
+Diabetes Mellitus/Systemic Hypertension/Hypothyroidism,5
+Diabetes Mellitus/Systemic Hypertension/Post renal Transplant/Hypothyroidism,1
+Diabetes Mellitus/Systemic Hypertension/Psoriasis,1
+Diabetes Mellitus/Systemic Hypertension/Tuberculosis/Bronchial Asthma,1
+Diabetes Mellitus/Systemic Hypertension/morbid Obesity/Coronary Artery Disease,1
+Diabetes Mellitus/seizure,1
+Diabetes mellitus,10
+Diabetes mellitus/Hypertension,2
+Diabetes mellitus/Hypertension/Cerebrovascular Accident,1
+Diabetes mellitus/Systemic Hypertension,1
+Diabetes mellitus/Systemic Hypertension/Chronic Kidney Disease,1
+Diabetes/Hypertension,2
+Diarrhoea,1
+Diarrhoea/Dizziness,1
+Diarrhoea/loss of smell,1
+Diffused Large B Cell Lymphoma,1
+Dilated Cardiomyopathy,1
+Dissection.,1
+Down Syndrome,1
+Drowsiness ,1
+Dry Cough,1
+Dysponea/Loss of Appetite,1
+Epilepsy,1
+Eye Irritation/Bronchial Asthma/Fever/Sore throat,1
+Fatigue/Epigastric Pain,1
+Fever,271
+Fever ,15
+Fever/Altered Sensorium,1
+Fever/Body Pain,3
+Fever/Body Pain/Cough/Breathing Difficulty,1
+Fever/Body Pain/Loose stools,1
+Fever/Breathing Difficulty,365
+Fever/Breathing Difficulty ,3
+Fever/Breathing Difficulty/Cough,14
+Fever/Breathing Difficulty/Cough ,1
+Fever/Breathing Difficulty/Cough/Loose stools,1
+Fever/Breathing Difficulty/Diarrhoea,1
+Fever/Breathing Difficulty/Dry Cough/Tiredness,1
+Fever/Breathing Difficulty/General Tiredness,1
+Fever/Breathing Difficulty/Loss of Appetite,1
+Fever/Breathing Difficulty/Loss of appetite/Myalgia,1
+Fever/Breathing Difficulty/Myalgia,8
+Fever/Breathing Difficulty/Myalgia/Loss of Appetite,1
+Fever/Breathing Difficulty/Sore throat/Headache,1
+Fever/Breathing Difficulty/Tiredness,1
+Fever/Breathing Difficulty/Tiredness/Headache,1
+Fever/Breathing Difficulty/loose stools,1
+Fever/Breathing Difficulty/myalgia,1
+Fever/Breathlessness,9
+Fever/Breathlessness ,3
+Fever/Breathlessness/Cough,5
+Fever/Breathlessness/Myalgia,1
+Fever/Breathlessness/Myalgia/sore throat,1
+Fever/Cold/Cough/Breathing Difficulty ,1
+Fever/Cold/Cough/Nausea,1
+Fever/Cold/Myalgia/Breathing Difficulty,1
+Fever/Cough,549
+Fever/Cough ,23
+Fever/Cough/Body Pain,4
+Fever/Cough/Body Pain/Headache,1
+Fever/Cough/Breathing Difficulty,1463
+Fever/Cough/Breathing Difficulty ,515
+Fever/Cough/Breathing Difficulty/Chest Pain,1
+Fever/Cough/Breathing Difficulty/Cold,1
+Fever/Cough/Breathing Difficulty/Diarrhoea,2
+Fever/Cough/Breathing Difficulty/Drowsiness,1
+Fever/Cough/Breathing Difficulty/General Tiredness,1
+Fever/Cough/Breathing Difficulty/Headache,1
+Fever/Cough/Breathing Difficulty/Loose stools,3
+Fever/Cough/Breathing Difficulty/Loose stools ,1
+Fever/Cough/Breathing Difficulty/Loss of taste/Fatigue,1
+Fever/Cough/Breathing Difficulty/Myalgia,11
+Fever/Cough/Breathing Difficulty/Sore Throat,1
+Fever/Cough/Breathing Difficulty/diarrhoea,1
+Fever/Cough/Breathing Difficulty/loose stools,1
+Fever/Cough/Breathing Difficulty/loss of smell,1
+Fever/Cough/Breathing Difficulty/myalgia,1
+Fever/Cough/Breathing difficulty,4
+Fever/Cough/Breathlessness,38
+Fever/Cough/Breathlessness ,8
+Fever/Cough/Breathlessness/Headache,1
+Fever/Cough/Cold,5
+Fever/Cough/Cold/Breathing Difficulty,5
+Fever/Cough/Cold/breathlessness ,1
+Fever/Cough/Cold/loss of appetite,1
+Fever/Cough/Diarrhoea,2
+Fever/Cough/Dysponea,4
+Fever/Cough/Expectoration,1
+Fever/Cough/Exreme Body Pain,1
+Fever/Cough/Fatigue,1
+Fever/Cough/General Tiredness,1
+Fever/Cough/Giddiness,1
+Fever/Cough/Loose stools,8
+Fever/Cough/Loose stools/Breathing Difficulty,1
+Fever/Cough/Loose stools/Vomiting,1
+Fever/Cough/Loss of Appetite,2
+Fever/Cough/Myalgia,16
+Fever/Cough/Myalgia/Breathing Difficulty,1
+Fever/Cough/Myalgia/dysgensia,1
+Fever/Cough/Running Nose,1
+Fever/Cough/Shortness of Breath,2
+Fever/Cough/Shortness of breath,4
+Fever/Cough/Shortness of breath ,1
+Fever/Cough/Sore Throat,2
+Fever/Cough/Sore throat,2
+Fever/Cough/Vomiting/Headache/Myalgia,1
+Fever/Cough/Vomiting/Respiration distress,1
+Fever/Cough/body Pain,2
+Fever/Cough/body Pain/sore throat,1
+Fever/Cough/breathing difficulty,6
+Fever/Cough/breathlessness,74
+Fever/Cough/breathlessness ,7
+Fever/Cough/breathlessness/Vomiting/loose stools,1
+Fever/Cough/breathlessness/loose stools,2
+Fever/Cough/diarrhoea,2
+Fever/Cough/headache,1
+Fever/Cough/headache/diarrhoea/breathlessness,1
+Fever/Cough/loose stools,1
+Fever/Cough/myalgia,2
+Fever/Cough/myalgia/fatigue/breathlessness ,1
+Fever/Cough/shortness of Breath,1
+Fever/Cough/sore throat,1
+Fever/Diarrhoea,1
+Fever/Dry Cough/Breathing Difficulty,1
+Fever/Fatigue,1
+Fever/Headache/Loose stools,1
+Fever/Loss of Appetite,2
+Fever/Myalgia,7
+Fever/Myalgia/Breathing Difficulty,5
+Fever/Myalgia/Cough,3
+Fever/Myalgia/Cough/Breathing Difficulty,5
+Fever/Myalgia/General Tiredness,1
+Fever/Seizure,1
+Fever/Severe Cough/Breathing Difficulty,1
+Fever/Sore Throat/Cough,1
+Fever/Sore Throat/Cough/Breathing Difficulty,1
+Fever/Sore throat/Cough/Shortness of Breath,1
+Fever/Throat Pain,1
+Fever/Throat Pain/Cough,1
+Fever/Tiredness/Cough,1
+Fever/Tiredness/Loss of appetite/loss of Smell,1
+Fever/Vomiting,5
+Fever/Vomiting/Loss of appetite,1
+Fever/body Pain,1
+Fever/body Pain/Breathing Difficulty,1
+Fever/breathing difficulty,1
+Fever/breathlessness,16
+Fever/breathlessness ,2
+Fever/breathlessness/Cough,1
+Fever/breathlessness/Cough/Cold,1
+Fever/breathlessness/Myalgia,1
+Fever/breathlessness/altered sensorium ,1
+Fever/breathlessness/diarrhoea,1
+Fever/breathlessness/myalgia,1
+Fever/breathlessness/myalgia/loss of appetite,1
+Fever/general Body Pain,1
+Fever/general Tiredness,1
+Fever/headache/Cough/altered sensorium ,1
+Fever/headache/myalgia,2
+Fever/loose stools,1
+Fever/loose stools/throat Pain/Cough,1
+Fever/loss of appetite/myalgia,1
+Fever/loss of appetite/tiredness,1
+Fever/myalgia,1
+Fever/myalgia/Cough,2
+Fever/severe Cough/myalgia,1
+Fever/tiredness,1
+Fever/tiredness/loss of appetite,1
+Fever/unconsciousness/Cough/Breathing Difficulty,1
+Fever/vomiting ,1
+Giddiness,3
+Giddiness/Fatigue,1
+HIV/AIDS,9
+HIV/AIDS/Peri Ampullary Carcinoma,1
+Headache/Breathing Difficulty,1
+Headache/Loss of taste/Cough/Cold,1
+Heart disease,2
+Hypertension,28
+Hypertension/Acute Kidney Injury,1
+Hypertension/Diabetes Mellitus,1
+Hypertension/Diabetes mellitus,1
+Hypertension/Epilepsy/Old Cerebrovascular Accident,1
+Hypertension/Type 2 Diabetes Mellitus,1
+Hypertension/Type 2 Diabetes Mellitus/Hypothyroidism/Obesity,1
+Hypertension/seizure,1
+Hypothyroidism,36
+Hypothyroidism/Lupus Nephritis/Systemic Hypertension,1
+Hypothyroidism/Morbid Obesity,1
+Hypothyroidism/Rheumatoid Arthritis,1
+Hypothyroidism/Type 2 Diabetes Mellitus/Systemic Hypertension,2
+IVF/DCDA twin gestation,1
+Intellectual Disability,1
+Juvenile Diabetes Mellitus/Chronic Kidney Disease/Congenital Blindness,1
+Left Sided Weakness,1
+Left Ventricular Hypertrophy,1
+Leprosy,1
+Loose stools,1
+Loose stools/Vomiting,1
+Loss of Appetite ,1
+Loss of Appetite/Loss of Smell,1
+Loss of Appetite/Nausea,1
+Loss of appetite,1
+Loss of appetite/Abdominal Pain,1
+Metastasis,1
+Morbid Obesity,9
+Morbid Obesity/Diabetes Mellitus/Hypertension,1
+Morbid Obesity/Obstructive Sleep Apnea,1
+Morbid Obesity/Systemic Hypertension,1
+Multiple Sclerosis,1
+Myalgia,6
+Myalgia/dry Cough/breathlessness,1
+New onset seizure,1
+Newly Detected Diabetes,1
+Non Hodgkins lymphoma,1
+Obesity,10
+Obesity/Diabetes Mellitus,1
+Obesity/Systemic Hypertension,1
+Old Cerebrovascular Accident,3
+Old Cerebrovascular Accident/Hypertension,1
+Old Pulmonary Tuberculosis/Chronic Kidney Disease,1
+Old Pulmonary Tuberculosis/Systemic Hypertension/Type 2 Diabetes Mellitus,1
+Osteosarcoma,1
+Papillary CA Thyroid/Type 2 Diabetes Mellitus,1
+Parkinsonism,1
+Parkinsonism/Type 2 Diabetes Mellitus,1
+Post LSCS POD:2,1
+Post Spinal Cord Injury,1
+Post coronary artery bypass grafting,1
+Previous Hepatitis B Infection/Diabetes Mellitus,1
+Psoriasis,1
+Psychiatric Illness,8
+Psychosis/Old Pulmonary Tuberculosis,1
+Pulmonary Tuberculosis,2
+Pulmonary Tuberculosis/Immunodeficiency,1
+Pulmonary Tuberculosis/Morbid Obesity,1
+Pulmonary metastasis,1
+Residual Polio,1
+Retrovirus positive,1
+Rheumatic Heart Disease,2
+Rheumatic Heart Disease/Diabetes Mellitus,1
+Rheumatic Heart Disease/Mitral Valve Prolapse,1
+Rheumatoid Arthritis,2
+Rheumatoid Arthritis on Methotrexate,1
+Right Hemiplegia,1
+Schizophrenia,1
+Seasonal Asthma,1
+Secondary Bronchial Asthmacterial Infection/Acute Respiratory distress Syndrome/Respiratory Failure/Septic Shock.,1
+Severe Nausea/Vomiting,1
+Sore Throat ,1
+Sore Throat/Body Pain,1
+Sputum,1
+Steven Johnson Syndrome,1
+Systemic Hypertension,242
+Systemic Hypertension/Anemia,1
+Systemic Hypertension/Atrial Fibrillation,1
+Systemic Hypertension/BPH,1
+Systemic Hypertension/Bronchial Asthma,2
+Systemic Hypertension/CRD/Type 2 Diabetes Mellitus,1
+Systemic Hypertension/Cancer Lung,1
+Systemic Hypertension/Cerebrovascular Accident,3
+Systemic Hypertension/Chronic Kidney Disease,17
+Systemic Hypertension/Chronic Kidney Disease/Coronary Artery Disease,1
+Systemic Hypertension/Chronic Kidney Disease/Hypothyroidism,1
+Systemic Hypertension/Chronic Kidney Disease/Old Cerebrovascular Accident,1
+Systemic Hypertension/Chronic Kidney Disease/seizure,1
+Systemic Hypertension/Chronic Kidney disease,4
+Systemic Hypertension/Chronic Obstructive Pulmonary Disease,1
+Systemic Hypertension/Coronary Artery Disease,11
+Systemic Hypertension/Coronary Artery Disease/Cancer Cervix,1
+Systemic Hypertension/Coronary Artery Disease/Old Pulmonary Tuberculosis,1
+Systemic Hypertension/Coronary Artery Disease/Type 2 Diabetes Mellitus,1
+Systemic Hypertension/Diabetes Mellitus,25
+Systemic Hypertension/Diabetes Mellitus/Bronchial Asthma,2
+Systemic Hypertension/Diabetes Mellitus/Chronic Kidney Disease,2
+Systemic Hypertension/Diabetes Mellitus/Coronary Artery Disease,1
+Systemic Hypertension/Diabetes Mellitus/Coronary Artery Disease/Hypothyroidism,1
+Systemic Hypertension/Diabetes Mellitus/Hypothyroidism,1
+Systemic Hypertension/Diabetes Mellitus/Hypothyroidism/Dyslipidemia,1
+Systemic Hypertension/Diabetes mellitus/Chronic Kidney Disease,1
+Systemic Hypertension/Hypothyroidism,11
+Systemic Hypertension/Morbid Obesity,2
+Systemic Hypertension/Obesity,2
+Systemic Hypertension/Old Cerebrovascular Accident,2
+Systemic Hypertension/Paraxysmal Supraventricular Tachycardia,1
+Systemic Hypertension/Psychiatric Illness,1
+Systemic Hypertension/Rheumatoid Arthritis,1
+Systemic Hypertension/Rheumatoid Pnemothorax,1
+Systemic Hypertension/Type 2 Diabetes Mellitus,51
+Systemic Hypertension/Type 2 Diabetes Mellitus/Bronchial Asthma,1
+Systemic Hypertension/Type 2 Diabetes Mellitus/Chronic Kidney Disease,4
+Systemic Hypertension/Type 2 Diabetes Mellitus/Coronary Artery Disease,4
+Systemic Hypertension/Type 2 Diabetes Mellitus/Coronary Artery Disease/Diabetic Foot,1
+Systemic Hypertension/Type 2 Diabetes Mellitus/Hypothyroidism,3
+Systemic Hypertension/Type 2 Diabetes Mellitus/Interstitial Lung Disease,1
+Systemic Hypertension/Type 2 Diabetes Mellitus/Old Cerebrovascular Accident,2
+Systemic Hypertension/Type 2 Diabetes Mellitus/Post Renal Transplant,1
+Systemic Hypertension/Type 2 Diabetes Mellitus/Pulmonary Tuberculosis,1
+Systemic Hypertension/Type 2 Diabetes Mellitus/Renal Failure,1
+Systemic Hypertension/seizure,2
+Systemic Lupus Erythematosus/Chronic Kidney Disease,1
+Systemic hypertension/Type 2 Diabetes Mellitus,1
+Systemic lupus erythematosus/Lupus Nephritis,1
+Thyroid Disorder,1
+Thyroid disorder,1
+Thyroidectomy,1
+Tiredness,4
+Tiredness/Sore Throat,1
+Type 2 Diabetes Mellitus,831
+Type 2 Diabetes Mellitus/Active Pulmonary Tuberculosis,1
+Type 2 Diabetes Mellitus/Acute Cerebrovascular Accident/Left Fungal Sinusitis,1
+Type 2 Diabetes Mellitus/Acute Coronary Syndrome,1
+Type 2 Diabetes Mellitus/Acute Kidney Injury,2
+Type 2 Diabetes Mellitus/Asthma,1
+Type 2 Diabetes Mellitus/Bipolar Disorder/Hypothyroidism,1
+Type 2 Diabetes Mellitus/Breast Cancer,1
+Type 2 Diabetes Mellitus/Bronchial Asthma,8
+Type 2 Diabetes Mellitus/Bronchial Asthma/Seizure,1
+Type 2 Diabetes Mellitus/Bronchiectasis/Chronic obstructive Pulmonary Disease,1
+Type 2 Diabetes Mellitus/Carcinoma Breast,1
+Type 2 Diabetes Mellitus/Carcinoma Stomach,1
+Type 2 Diabetes Mellitus/Carinomia Lip Of Verrucous Type,1
+Type 2 Diabetes Mellitus/Cerebrovascular Accident,4
+Type 2 Diabetes Mellitus/Chronic Alcoholic Liver Disease/Metabolic Encephalopathy,1
+Type 2 Diabetes Mellitus/Chronic Kidney Disease,24
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Cerebrovascular Accident/Systemic Hypertension,1
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Coronary Artery Disease/Systemic Hypertension,1
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Old Tuberculosis Meningitis,1
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/Systemic Hypertension,3
+Type 2 Diabetes Mellitus/Chronic Kidney Disease/coronary Artery Disease,1
+Type 2 Diabetes Mellitus/Chronic Kidney disease,2
+Type 2 Diabetes Mellitus/Chronic obstructive pulmonary disease,1
+Type 2 Diabetes Mellitus/Coronary Artery Disease,21
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Acute Cerebrovascular Accident,1
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Acute Kidney injury,1
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Bronchial Asthma,1
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Cardiac Failure/Left Diabetic Foot Ulcer,1
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Chronic Kidney Disease/Diabetic Neuropathy,1
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Systemic Hypertension,1
+Type 2 Diabetes Mellitus/Coronary Artery Disease/Systemic Hypertension/Hypothyroidism,1
+Type 2 Diabetes Mellitus/Coronary Artery disease,2
+Type 2 Diabetes Mellitus/Coronary Kidney Disease,1
+Type 2 Diabetes Mellitus/Diabetes Mellitus,1
+Type 2 Diabetes Mellitus/Diabetes Mellitus/Coronary Artery Disease,1
+Type 2 Diabetes Mellitus/Diabetic Keto Acidosis,1
+Type 2 Diabetes Mellitus/Epilepsy/Coronary Artery Disease/Hypertension,1
+Type 2 Diabetes Mellitus/Hypertension,9
+Type 2 Diabetes Mellitus/Hypertension/Coronary Artery Disease/old Cerebrovascular Accident,1
+Type 2 Diabetes Mellitus/Hypertension/Mucormycosis,1
+Type 2 Diabetes Mellitus/Hyperthyroidism,2
+Type 2 Diabetes Mellitus/Hypothyroidism,13
+Type 2 Diabetes Mellitus/Inter Ventricular Conduction Defect/Hypokalemia/Coronary Artery Disease,1
+Type 2 Diabetes Mellitus/Lepromatous Leprosy/Anemia,1
+Type 2 Diabetes Mellitus/Morbid Obesity,5
+Type 2 Diabetes Mellitus/Morbid Obesity/Hypothyroidism,1
+Type 2 Diabetes Mellitus/Obesity,3
+Type 2 Diabetes Mellitus/Old Cerebrovascular Accident,3
+Type 2 Diabetes Mellitus/Old Cerebrovascular Accident/Obesity,1
+Type 2 Diabetes Mellitus/Pancreatitis,1
+Type 2 Diabetes Mellitus/Post Cerebrovascular Accident,1
+Type 2 Diabetes Mellitus/Psychiatric Illness,3
+Type 2 Diabetes Mellitus/Pulmonary Tuberculosis,3
+Type 2 Diabetes Mellitus/Renal Failure,1
+Type 2 Diabetes Mellitus/Systemic Hypertension,385
+Type 2 Diabetes Mellitus/Systemic Hypertension/Acute Kidney Injury,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Acute Renal Failure,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Aortic Sclerosis,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Asthma,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Bicytopenia,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Cancer,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Cancer Bladder,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Cerebrovascular Accident,5
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease,25
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease/Anemia,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease/Coronary Artery Disease,2
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney Disease/Hypothyroidism,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Kidney disease,2
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Liver Disease/Bullous Disorder,2
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic Myeloid Leukemia,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Chronic obstructive Pulmonary Disease,3
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease,44
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Cerebrovascular Accident,2
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Chronic Kidney Disease,4
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Disseminated Tuberculosis/Bronchial Asthma,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/HBSAG Positive,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Hypothyroidism,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Lung Absess,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Obstructive Sleep Apnea,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Old Cerebrovascular Accident,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery Disease/Renal Failure,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Coronary Artery disease,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/HBSAG Positive,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Hepatitis B,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Hypertension,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Hypothyroidism,10
+Type 2 Diabetes Mellitus/Systemic Hypertension/Hypothyroidism/Obesity,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Lupus Nephritis,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Morbid Obesity,2
+Type 2 Diabetes Mellitus/Systemic Hypertension/Obesity,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Old Cerebrovascular Accident,4
+Type 2 Diabetes Mellitus/Systemic Hypertension/Old Cerebrovascular Accident/Coronary Artery Disease,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Old Cerebrovascular Accident/Hypothyroidism,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Pre Renal Azotemia,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Pulmonary Tuberculosis,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Right Hemiplegia,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Septic Sigmoid Diverclitis/Hollow Viscus Perforation,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Supraventricular Tachycardia,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Tuberculosis,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/Tuberculosis/Bronchial Asthma/seizure/Coronary Artery Disease/Chronic Kidney Disease,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/coronary Artery Disease,1
+Type 2 Diabetes Mellitus/Systemic Hypertension/psychiatric illness,2
+Type 2 Diabetes Mellitus/Systemic Hypertension/seizure,2
+Type 2 Diabetes Mellitus/invasive fungal sinusitis,1
+Type 2 Diabetes Mellitus/old Cerebrovascular Accident,1
+Type 2 Diabetes Mellitus/uncontrolled Hyperglycemia,1
+Type 2 Diabetes mellitus,6
+Type 2 Diabetes mellitus/Coronary Artery Disease,1
+Type 2 Diabetes mellitus/Systemic Hypertension/Acute Cerebrovascular Accident,1
+Type 2 Diabetes mellitus/Systemic Hypertension/Chronic Kidney Disease,1
+Type 2 Diabetes mellitus/Systemic Hypertension/Hypothyroidism,1
+Ulcerative Colitis,1
+Uncontrolled Diabetes Mellitus,1
+Vomiting,1
+Vomiting/Unconsciousness,1
+breathlessness,5
+breathlessness/Cough,1
+cancer cervix,1
+cerebrovascular accident/Hypertension,1
+chest Pain,1
+chest Pain/Myalgia,1
+drowsiness,1
+expectoration,1
+expectoration/Breathing Difficulty,2
+general Pain,1
+loose stools/loss of appetite/Fever,1
+loss of smell/loss of taste/Diarrhoea,1
+newly detected diabetes,2
+newly detected diabetes/Systemic Hypertension,1
+seizure,10
+seizure/Down Syndrome,1
+seizure/Intellectual Disability,1
+seizure/Morbid Obesity,1
+seizure/Type 2 Diabetes Mellitus/Hypothyroidism,1
+shortness of breath/Myalgia,1
+unconsciousness,2
